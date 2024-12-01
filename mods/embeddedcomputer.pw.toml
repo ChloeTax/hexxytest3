@@ -1,0 +1,13 @@
+name = "Embedded Computer"
+filename = "embeddedcomputer-0.3.0-beta.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X41LBcSD/versions/YcOuhmN9/embeddedcomputer-0.3.0-beta.1.jar"
+hash-format = "sha1"
+hash = "8a7a12de37ccb51c1d473cb2b6a1dc6e4acbdbf9"
+
+[update]
+[update.modrinth]
+mod-id = "X41LBcSD"
+version = "YcOuhmN9"

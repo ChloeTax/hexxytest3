@@ -1,0 +1,13 @@
+name = "Backport Paintings 1.21"
+filename = "Leon's Backport Paintings fabric 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P86fl1mK/versions/A7BWLIpO/Leon%27s%20Backport%20Paintings%20fabric%201.20.1.jar"
+hash-format = "sha1"
+hash = "d1efbe70e2f3b78c140c4606da4c9c52b6748b71"
+
+[update]
+[update.modrinth]
+mod-id = "P86fl1mK"
+version = "A7BWLIpO"

@@ -1,0 +1,13 @@
+name = "Notes"
+filename = "Notes-1.20.1-2.1.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ko8Qabo1/versions/W9lwYk5g/Notes-1.20.1-2.1.0-fabric.jar"
+hash-format = "sha1"
+hash = "fedf123fa56ddbfeed49a19a49f0fc164d5fef7e"
+
+[update]
+[update.modrinth]
+mod-id = "ko8Qabo1"
+version = "W9lwYk5g"

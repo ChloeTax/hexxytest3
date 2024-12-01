@@ -1,0 +1,13 @@
+name = "Autocrafter Early"
+filename = "crafter-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pAONjoSH/versions/213IPd8u/crafter-1.0.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "e727fadd24197b80baedd7754a7e7dc46c7cca09"
+
+[update]
+[update.modrinth]
+mod-id = "pAONjoSH"
+version = "213IPd8u"

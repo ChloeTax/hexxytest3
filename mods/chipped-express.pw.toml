@@ -1,0 +1,13 @@
+name = "Chipped Express"
+filename = "ChippedExpress-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dQIcJONI/versions/nxBJ3lJV/ChippedExpress-universal.jar"
+hash-format = "sha1"
+hash = "eab1022a795c493685cda5917ce1b556c385005c"
+
+[update]
+[update.modrinth]
+mod-id = "dQIcJONI"
+version = "nxBJ3lJV"

@@ -1,0 +1,13 @@
+name = "PAUCAL"
+filename = "paucal-0.6.0+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TZo2wHFe/versions/dabyDTwJ/paucal-0.6.0%2B1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "bd44f55fe67c6743171637a9e57812aae189ec5d"
+
+[update]
+[update.modrinth]
+mod-id = "TZo2wHFe"
+version = "dabyDTwJ"

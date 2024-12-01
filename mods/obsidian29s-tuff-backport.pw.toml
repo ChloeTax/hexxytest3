@@ -1,0 +1,13 @@
+name = "obsidian29's Tuff Backport"
+filename = "tuffbackport-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6V3Fsscz/versions/9d8IQzsg/tuffbackport-0.1.0.jar"
+hash-format = "sha1"
+hash = "8ceed0c488b902f7e633da11a528a31afedbe960"
+
+[update]
+[update.modrinth]
+mod-id = "6V3Fsscz"
+version = "9d8IQzsg"

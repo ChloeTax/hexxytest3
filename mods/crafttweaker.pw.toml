@@ -1,0 +1,13 @@
+name = "CraftTweaker"
+filename = "CraftTweaker-fabric-1.20.1-14.0.44.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/NhBwWWsL/CraftTweaker-fabric-1.20.1-14.0.44.jar"
+hash-format = "sha1"
+hash = "cf6f6aa3debdff8dd5cbd5ad23d707c1528f3268"
+
+[update]
+[update.modrinth]
+mod-id = "Xg35A4rS"
+version = "NhBwWWsL"

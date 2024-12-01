@@ -1,0 +1,13 @@
+name = "Spectrum"
+filename = "spectrum-1.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/hI7YxxcZ/spectrum-1.8.1.jar"
+hash-format = "sha1"
+hash = "e0251f0e27409374aa37fa30863603ab928f4ba3"
+
+[update]
+[update.modrinth]
+mod-id = "3rc31Hgo"
+version = "hI7YxxcZ"

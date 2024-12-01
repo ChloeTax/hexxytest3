@@ -1,0 +1,13 @@
+name = "Hexcellular"
+filename = "hexcellular-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mN6t9Bt4/versions/frtTAxxR/hexcellular-1.0.3.jar"
+hash-format = "sha1"
+hash = "8d09a34dec5673e130beeccc25646e4f90b12536"
+
+[update]
+[update.modrinth]
+mod-id = "mN6t9Bt4"
+version = "frtTAxxR"

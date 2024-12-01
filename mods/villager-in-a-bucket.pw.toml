@@ -1,0 +1,13 @@
+name = "Villager In A Bucket"
+filename = "villagerinabucket-fabric-1.20.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAvnm8Mq/versions/3jplt3th/villagerinabucket-fabric-1.20.1-1.3.0.jar"
+hash-format = "sha1"
+hash = "b5b44f930ec8bc305480cc247353014c21a6e803"
+
+[update]
+[update.modrinth]
+mod-id = "IAvnm8Mq"
+version = "3jplt3th"

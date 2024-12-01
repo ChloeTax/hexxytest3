@@ -1,0 +1,13 @@
+name = "Distant Friends"
+filename = "DistantFriends-fabric-1.20.1-0.5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CDaJ8xGu/versions/ElfqWcKI/DistantFriends-fabric-1.20.1-0.5.5.jar"
+hash-format = "sha1"
+hash = "76e7c0936713645d06804d1f9ab8be2a94b4e23e"
+
+[update]
+[update.modrinth]
+mod-id = "CDaJ8xGu"
+version = "ElfqWcKI"

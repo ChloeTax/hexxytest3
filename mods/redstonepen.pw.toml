@@ -1,0 +1,13 @@
+name = "Redstone Pen"
+filename = "redstonepen-1.20.1-fabric-1.5.31.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DwE83ioX/versions/VaQ60bvD/redstonepen-1.20.1-fabric-1.5.31.jar"
+hash-format = "sha1"
+hash = "956ae8626d2f585bbeb9408c0362e98774a27aee"
+
+[update]
+[update.modrinth]
+mod-id = "DwE83ioX"
+version = "VaQ60bvD"

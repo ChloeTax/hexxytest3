@@ -1,0 +1,13 @@
+name = "Chat Calc"
+filename = "chatcalc-3.0.24b.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/a7X986Fs/versions/jSQCAoBb/chatcalc-3.0.24b.jar"
+hash-format = "sha1"
+hash = "5ce954b987ff22aa8234ecb2b4c9688274827c48"
+
+[update]
+[update.modrinth]
+mod-id = "a7X986Fs"
+version = "jSQCAoBb"
