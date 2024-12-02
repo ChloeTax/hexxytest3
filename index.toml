@@ -461,6 +461,11 @@ hash = "a062040e25906154ee421d2eaf36387576b54cccf5bbed8cc7ae164e1d0a947c"
 metafile = true
 
 [[files]]
+file = "mods/hexal.pw.toml"
+hash = "0f0ac7791f0e34284d39b495ec55d5575102b00833f514f2349c3d64646bd359"
+metafile = true
+
+[[files]]
 file = "mods/hexalia.pw.toml"
 hash = "3648128722c50eb156ccc62f0d7028f42b0fcf420b1b0bd3228ed9f5ac8a56bb"
 metafile = true
@@ -623,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3c781d1881227a18477634e6598f0b2849b4312190c6a8a017699d15ed53d3c1"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "1971cb686718e5213523c40171b1b8b94af5d3c1fb032f425247aeba9edafaca"
 metafile = true
 
 [[files]]

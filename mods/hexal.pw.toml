@@ -1,0 +1,7 @@
+name = "hexal"
+filename = "hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial.jar"
+
+[download]
+url = "https://limbo.skye.vg/hexal/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial.jar"
+hash-format = "sha256"
+hash = "f30bc10c2e046a1cf364ffab1222a0ee865265b5e2de08de17ea9dbdceea975e"
