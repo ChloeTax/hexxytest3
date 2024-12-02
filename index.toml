@@ -126,6 +126,11 @@ hash = "041cfe22ed9a42cb4acf300d185b276bf2c973b4061f90687d7b7132f2ce34ec"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
 metafile = true
