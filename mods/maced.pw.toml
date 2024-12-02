@@ -1,0 +1,13 @@
+name = "Maced"
+filename = "Maced-Fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86131cf3cb165b3620b9f4da8cfb6bbc843877f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5212250
+project-id = 992767
