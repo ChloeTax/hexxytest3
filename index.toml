@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
+hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
 
 [[files]]
@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
