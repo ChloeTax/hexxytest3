@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d590152451869b55fedbb88490e2b20e514b994adaff13fea374d763d2f3fb77"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
@@ -626,6 +626,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "37864e6f4db80b783f80b24140922c812b25f026e681617f7b17d751299d410c"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3c781d1881227a18477634e6598f0b2849b4312190c6a8a017699d15ed53d3c1"
 metafile = true
@@ -753,6 +758,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "b8700fa491900e85e622a4cab30b278273cc814737ca772c5d462a352f7ef43c"
 metafile = true
 
 [[files]]
