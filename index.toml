@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d590152451869b55fedbb88490e2b20e514b994adaff13fea374d763d2f3fb77"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "4cb3a4d97a207e4f0891fa31fefbb2b9090d07ddc897f2aa5c602f3a5e4cc3d1"
+hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
+hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "a118959055723f58a0deed84ab8cce99cbf80b350b4e2d70d61047a9d3428f97"
+hash = "b56d24874f490a108d04447d850d79a00a41c76adbbd96a81b5fdd5b1e230e72"
 metafile = true
 
 [[files]]
