@@ -716,6 +716,11 @@ hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
+file = "mods/perfectly-packed.pw.toml"
+hash = "42fb5c9ca1d7a719e48aab3ee7006d58c4fd4ae892476d3b7a3b809937162f5d"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "fe2e2f2d2d3beecf56a8d71431108a3aa83f575d4838682f2c4a1b25d443812d"
 metafile = true
