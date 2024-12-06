@@ -286,6 +286,11 @@ hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
+file = "mods/digital-items-3.pw.toml"
+hash = "b54b1cc503cf720f843631dbe68c890a2bbcd6c38e8053ed2d3edcc8f540c7be"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "4620c40cc1a4acb7d70b8f262a573d2ec8c67a4843b874363f47c6dcca9cf420"
 metafile = true
@@ -718,6 +723,11 @@ metafile = true
 [[files]]
 file = "mods/perfectly-packed.pw.toml"
 hash = "42fb5c9ca1d7a719e48aab3ee7006d58c4fd4ae892476d3b7a3b809937162f5d"
+metafile = true
+
+[[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "a0fb6a028f0c5b75ca2cc625cf81eec3e84ea856762df2561d2dbcb28c65289a"
 metafile = true
 
 [[files]]

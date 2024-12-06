@@ -1,0 +1,13 @@
+name = "Digital Items 3"
+filename = "digitalitems-fabric-1.20.1-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YDOa7yWU/versions/WLDsrxcH/digitalitems-fabric-1.20.1-0.3.0.jar"
+hash-format = "sha1"
+hash = "233e1dbad03a770d7e9f9cd238e93de10b998657"
+
+[update]
+[update.modrinth]
+mod-id = "YDOa7yWU"
+version = "WLDsrxcH"
