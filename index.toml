@@ -240,6 +240,11 @@ hash = "8bb457a1c12258bd4d0e4612a4da14ecd0c09c7fc4f499b3e75d989bc82981e3"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e856e65f33ff1746f365f10eb3c5a26515d74837577fb05c3b25d8debcd22198"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "390bfff188701b2133dccdbe4f88a842e70349c01b7d852229e7ef972eac515e"
 metafile = true
