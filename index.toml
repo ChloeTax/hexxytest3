@@ -165,11 +165,6 @@ hash = "41c81f095b5a96775d2cf261dc8350e8214ef3a12bfa608f2761634e8560cfb9"
 metafile = true
 
 [[files]]
-file = "mods/chisel-reborn.pw.toml"
-hash = "2d60a3dac1a7914a23887b81437b564e059513fbf8ffe0273f6099110485e4df"
-metafile = true
-
-[[files]]
 file = "mods/chunk-debug.pw.toml"
 hash = "ac084f12dc66779c0e8518e54fcad9b644a35a68f419b9c8bb14f7e10cedc253"
 metafile = true
@@ -442,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
 metafile = true
 
 [[files]]
@@ -775,6 +775,16 @@ hash = "ac2108db7f849a01282adc13f7165287ac744247afdb745e9b6ea694cfa8cef8"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "41f18dab192c79a4f4ec38422b38c3d6198ebae71abab86cfbf305a1d008c051"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "a8e48a0dadfaa8492f5e46ed3555dcaa2f6cb15bf7b7819fef018ec3e60d3706"
+metafile = true
+
+[[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "4e94000ecc7bd209eec3cb8537062acc68b10319501c8543dcc7db86fea9c6c5"
 metafile = true
@@ -867,6 +877,11 @@ metafile = true
 [[files]]
 file = "mods/statuseffecttimer.pw.toml"
 hash = "3a2090c0e47a9353148c403ebfc9609d5af7e8fd6beba42084fe799253534433"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
 
 [[files]]
