@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "d20b02e7d6cac865fb34bd390e22efe6f10003c73216f0b11160378426c7a05c"
+
+[[files]]
 file = "mods/1.21.2-bundle-recipe.pw.toml"
 hash = "2e112a2a55a82cf9ac3db6593bfd7b72b3dda85d1734fa699ee07a42353009f0"
 metafile = true
@@ -636,6 +640,11 @@ hash = "37864e6f4db80b783f80b24140922c812b25f026e681617f7b17d751299d410c"
 metafile = true
 
 [[files]]
+file = "mods/modular-item-api.pw.toml"
+hash = "0f90e0b38e6fb31b95533964a3f1a01b7657765e9e8f54e0abf7e19eb462a757"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3c781d1881227a18477634e6598f0b2849b4312190c6a8a017699d15ed53d3c1"
 metafile = true
@@ -913,6 +922,21 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/truly-modular-archery.pw.toml"
+hash = "0d42de17c5694c1b9e12f8ab9dea72944b538bf2da3b6e2e64b2f888d7f5c140"
+metafile = true
+
+[[files]]
+file = "mods/truly-modular-armory.pw.toml"
+hash = "f4fbd1251b667907fbe803413b26eba4bc8659c7066ffb582d4e6bd82ddcdc47"
+metafile = true
+
+[[files]]
+file = "mods/truly-modular-arsenal.pw.toml"
+hash = "6b84a07c279e44cff4df99bfc5e75f4033bbf11ee4277b136d4e3cae94044d39"
 metafile = true
 
 [[files]]

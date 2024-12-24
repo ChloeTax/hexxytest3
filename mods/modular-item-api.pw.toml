@@ -1,0 +1,13 @@
+name = "Truly Modular: Modular Item API"
+filename = "Truly-Modular-miapi-fabric-1.1.37-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c4Uf1TKc/versions/y9cYXhMb/Truly-Modular-miapi-fabric-1.1.37-1.20.1.jar"
+hash-format = "sha1"
+hash = "1b6aa9b28f93cc5b90602f8a5aa426e917296769"
+
+[update]
+[update.modrinth]
+mod-id = "c4Uf1TKc"
+version = "y9cYXhMb"
