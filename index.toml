@@ -350,6 +350,11 @@ hash = "6e025865874e85f3ac34dcf0192614bd3f7f698785ab4b7f5e09525dfa2e74bc"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "6f0cbd3c8de69c34134a782b3727740947947884de33d93782293a0f87e73a41"
+metafile = true
+
+[[files]]
 file = "mods/emi-create-schematics.pw.toml"
 hash = "cc9a58a0199de02b4fea7ccc8171ac4a1201f58bf7d327a66348d6b738e74267"
 metafile = true
@@ -795,11 +800,6 @@ hash = "4e94000ecc7bd209eec3cb8537062acc68b10319501c8543dcc7db86fea9c6c5"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
 metafile = true
@@ -837,31 +837,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "63839e2846c860c6a545c1756220f9cc751d513eec32dc764628a32c5739d95f"
-metafile = true
-
-[[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "a5b3156251b4b05f72628b844e084fcf59060b4f4bcd56bc8a8534133009b1ec"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extras.pw.toml"
-hash = "ba643b92353d4a2d31da5efcd97aec0782b6762cf0692c81d643f55fec6c631a"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "17f23e6039e2034f29cd52b62d19a0d052728b89059c1038e3f7c365dcc27edf"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
