@@ -496,6 +496,10 @@ hash = "310828bad91941458fd97545087158927c620586b378c461be582e1ba3af0b12"
 metafile = true
 
 [[files]]
+file = "mods/hexical-1.4.1.jar"
+hash = "a6071e175ba9cfa5cd853e7df8af900b7882c5557f0ca019d5f171bc2749d065"
+
+[[files]]
 file = "mods/hexvr.pw.toml"
 hash = "51b15ffe7e536434995a47477b354bc6f6116795f6db767cec1f9cd5fbe0c02e"
 metafile = true
