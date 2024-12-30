@@ -135,6 +135,11 @@ hash = "e4295eaf6d67a0203c6410e4687b3e4340d84202e1cf751b231f283b5f801751"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
+metafile = true
+
+[[files]]
 file = "mods/chat-calc.pw.toml"
 hash = "59574a5e9a0c8728f076efddb7d5530c5078dae99bbcaa2a2b2045893226f6ca"
 metafile = true
@@ -445,6 +450,11 @@ hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "04a0c0e942e733c850cf9dd77fa5f1dc47554fd972b099e1eb69255514f52969"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "bd0c76f438f67e2611fa8458ab153be304acfb4aaed4acebd0dcdfbbb74f1388"
 metafile = true
@@ -472,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/hexalia.pw.toml"
 hash = "3648128722c50eb156ccc62f0d7028f42b0fcf420b1b0bd3228ed9f5ac8a56bb"
+metafile = true
+
+[[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "bcb88a64193abb835116365b30a05694be86c2eea017e9a69cd95b6fdb0bcd09"
 metafile = true
 
 [[files]]
@@ -717,6 +732,16 @@ metafile = true
 [[files]]
 file = "mods/packages.pw.toml"
 hash = "21fde8b12697f1a58de50f5b0c6c1db0df16c3c1c8f3240f5e4bf46744f1927f"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "fb1c9c7a93970c008361d93a49065c7ceb970bd4667dc969a13d4838e06f6773"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "670102320563fe22ac2683f36504d0aedd13bc6d55cf4a55c73ebecccabba14f"
 metafile = true
 
 [[files]]
