@@ -1,0 +1,7 @@
+name = "hexdebug"
+filename = "hexdebug-fabric-0.2.2+1.20.1-SNAPSHOT.jar"
+
+[download]
+url = "https://ci.blamejared.com/job/object-Object/job/HexDebug/job/main/lastSuccessfulBuild/artifact/build/jenkinsArtifacts/hexdebug-fabric-0.2.2+1.20.1-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "236153b568064809c920a433b10fb3c9879b4102165521c82b58238c763a12d0"
