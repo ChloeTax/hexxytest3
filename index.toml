@@ -300,11 +300,6 @@ hash = "4620c40cc1a4acb7d70b8f262a573d2ec8c67a4843b874363f47c6dcca9cf420"
 metafile = true
 
 [[files]]
-file = "mods/distant-friends.pw.toml"
-hash = "70a60b44cb524e771c16d26a8e5ecdc0fd9f4c94a5e6280e3534ecfca45fd332"
-metafile = true
-
-[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "5eddd4c6a5cba7cd4d3d9a0acd0e810ae040d92b6c1928984a9497a5187d143b"
 metafile = true
