@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "d20b02e7d6cac865fb34bd390e22efe6f10003c73216f0b11160378426c7a05c"
-
-[[files]]
 file = "mods/1.21.2-bundle-recipe.pw.toml"
 hash = "2e112a2a55a82cf9ac3db6593bfd7b72b3dda85d1734fa699ee07a42353009f0"
 metafile = true
