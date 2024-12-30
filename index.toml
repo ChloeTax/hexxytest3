@@ -296,6 +296,11 @@ hash = "4620c40cc1a4acb7d70b8f262a573d2ec8c67a4843b874363f47c6dcca9cf420"
 metafile = true
 
 [[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "499c26c67d4efceb44f15d98bb18bcdb9e069c50da960c49907de613d732c736"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "5eddd4c6a5cba7cd4d3d9a0acd0e810ae040d92b6c1928984a9497a5187d143b"
 metafile = true
