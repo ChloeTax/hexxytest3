@@ -500,6 +500,11 @@ file = "mods/hexical-1.4.1.jar"
 hash = "a6071e175ba9cfa5cd853e7df8af900b7882c5557f0ca019d5f171bc2749d065"
 
 [[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "8f7b75a7bcea9d950024750ebd4e322da93e8e151a78d1d596b0b0b496f9631c"
+metafile = true
+
+[[files]]
 file = "mods/hexvr.pw.toml"
 hash = "51b15ffe7e536434995a47477b354bc6f6116795f6db767cec1f9cd5fbe0c02e"
 metafile = true
