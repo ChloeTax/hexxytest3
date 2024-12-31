@@ -630,6 +630,11 @@ hash = "ccce4670dcbdf1e9c85c62723b973353ec6c0ba70617c283fa81b1addf4261c9"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "28003b683197f8f9c6968726ec8421b48804a092e8fef5a88fcc03c05f75413b"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -892,6 +897,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/spacecube.pw.toml"
+hash = "92c4093dacf1cb1a1791ae06a886223d532b23aa75ea9b2cd8938a788e6cc4ac"
 metafile = true
 
 [[files]]

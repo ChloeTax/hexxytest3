@@ -1,0 +1,13 @@
+name = "Space Cube"
+filename = "spacecube-0.9.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H5uBVVRE/versions/HIEym8mi/spacecube-0.9.11.jar"
+hash-format = "sha1"
+hash = "2f100a3f82064cf5cf76857719a3ddb2d1f83739"
+
+[update]
+[update.modrinth]
+mod-id = "H5uBVVRE"
+version = "HIEym8mi"
