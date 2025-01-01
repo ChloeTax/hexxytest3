@@ -26,6 +26,11 @@ hash = "147a7bdbecbdc4c5748dbc4e4ce7d941d221c9c595dfce0fb795b2cc5650a103"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "d2ff820d3f64aa84579d914f4241fe13d60de8be0ee9ffa6f58179eae41e2984"
 metafile = true
@@ -221,11 +226,6 @@ hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
-metafile = true
-
-[[files]]
 file = "mods/convenient-decor.pw.toml"
 hash = "027fe9726e0173c3ffe2f2bf05fedc96d82a122a8e0fd0260549789dd84a6064"
 metafile = true
@@ -238,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "e856e65f33ff1746f365f10eb3c5a26515d74837577fb05c3b25d8debcd22198"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
 
 [[files]]
@@ -710,6 +715,11 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "fd3657dfc971aff9705e1b023b682510a60dba30208deb69f9fa12f4fd75df48"
+metafile = true
+
+[[files]]
 file = "mods/notes.pw.toml"
 hash = "dfdd6d6e1ddca69c3815fd86c821bef75c195cb7465074a47967b90770ad05ad"
 metafile = true
@@ -1047,6 +1057,11 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "e249e0962a71a3cab0b8bd94f0458f79a848b6dcfccf45b9a487cfa078135b97"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "d9439d9594d8666f09ac0634ee9bbcf82c430de010896f87e7cd44d17a4391d7"
 metafile = true
 
 [[files]]
