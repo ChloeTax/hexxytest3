@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Spectrum.json5"
+hash = "08a5c2c9b58b6f964ea7626e70538446ff2d467820edd417442d39aea948fb65"
+
+[[files]]
+file = "config/convenientdecor.json5"
+hash = "4b8d52175de2ec99ed9562c1bdcde38c912c7aedd59fe0d6b12eb6e5b60090f3"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "7b4cd8d1eb44e1b5921d1784ba18176ec044f0d52b041bf8b768bb4b0b32c4c1"
+
+[[files]]
 file = "mods/1.21.2-bundle-recipe.pw.toml"
 hash = "2e112a2a55a82cf9ac3db6593bfd7b72b3dda85d1734fa699ee07a42353009f0"
 metafile = true
@@ -1076,12 +1088,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fca73245983306292a1242a71a93cc274f5d54dc14f4c3560a075699351663ad"
+hash = "5604d4cd6a3def70f12a724132b94049b9f280687a5a9570efeec7ffd61fcf87"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3f9c20d644445a631e0b23b54bff5c5e4f531626919c9d55b5fc5d4fd43b9c64"
+hash = "d157898f2b8c5f18ea53332c9c1dc29dc7ab0bdff51b5d2892317d562cf721d9"
 metafile = true
 
 [[files]]
