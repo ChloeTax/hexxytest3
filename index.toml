@@ -9,6 +9,10 @@ file = "config/convenientdecor.json5"
 hash = "4b8d52175de2ec99ed9562c1bdcde38c912c7aedd59fe0d6b12eb6e5b60090f3"
 
 [[files]]
+file = "config/plethora.hocon"
+hash = "a7a1149debf8fc7b4a84c5dc300d5c5b30ebdb5aa6ae0fd471657908b90e40b4"
+
+[[files]]
 file = "config/supplementaries-common.json"
 hash = "7b4cd8d1eb44e1b5921d1784ba18176ec044f0d52b041bf8b768bb4b0b32c4c1"
 
