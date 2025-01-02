@@ -807,6 +807,11 @@ hash = "a0fb6a028f0c5b75ca2cc625cf81eec3e84ea856762df2561d2dbcb28c65289a"
 metafile = true
 
 [[files]]
+file = "mods/plethora.pw.toml"
+hash = "e420430bc343e728b896bca68b91c55e36f70a6b60f3221473577638259c44c9"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "fe2e2f2d2d3beecf56a8d71431108a3aa83f575d4838682f2c4a1b25d443812d"
 metafile = true
