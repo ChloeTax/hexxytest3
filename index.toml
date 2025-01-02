@@ -138,6 +138,11 @@ hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
 metafile = true
 
 [[files]]
+file = "mods/cc-security.pw.toml"
+hash = "2885fde3aa45b46917ca8afe365ed61d9f54c6ce3223620dfbf0020923328ae4"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "e4295eaf6d67a0203c6410e4687b3e4340d84202e1cf751b231f283b5f801751"
 metafile = true
