@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-security.pw.toml"
-hash = "2885fde3aa45b46917ca8afe365ed61d9f54c6ce3223620dfbf0020923328ae4"
+hash = "2e1dffa4820b2f624a9ba3c573b96e219bc934c015483c6304e1f81d29118248"
 metafile = true
 
 [[files]]

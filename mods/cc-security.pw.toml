@@ -1,7 +1,7 @@
 name = "cc-security"
-filename = "Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
+filename = "cc-security-1.0.0.jar"
 
 [download]
-url = "http://limbo.skye.vg/hexal/Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
+url = "https://github.com/vgskye/cc-security/releases/download/1.0.0/cc-security-1.0.0.jar"
 hash-format = "sha256"
-hash = "a0ba090fead330b6d15cda854d29d3e4b5c19adaab1f280a9c17635657ed31cf"
+hash = "574378a4a2d56b4b97e3fde6959eb8d624d3fcd7a92d5852e2c0833270e3abce"
