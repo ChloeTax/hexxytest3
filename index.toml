@@ -746,11 +746,6 @@ hash = "dfdd6d6e1ddca69c3815fd86c821bef75c195cb7465074a47967b90770ad05ad"
 metafile = true
 
 [[files]]
-file = "mods/numismatics.pw.toml"
-hash = "b56d24874f490a108d04447d850d79a00a41c76adbbd96a81b5fdd5b1e230e72"
-metafile = true
-
-[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
