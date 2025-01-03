@@ -9,8 +9,44 @@ file = "config/convenientdecor.json5"
 hash = "4b8d52175de2ec99ed9562c1bdcde38c912c7aedd59fe0d6b12eb6e5b60090f3"
 
 [[files]]
+file = "config/fabrication/dimensional_tools.ini"
+hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
+
+[[files]]
+file = "config/fabrication/features.ini"
+hash = "589d467c877e31802475082cceff65a481a648b49f1d0bae0da95d7339b2c65e"
+
+[[files]]
+file = "config/fabrication/fscript.ini"
+hash = "06d742af1c186bd89bb808f7ff407865f1c08b1ebf7bb2e52ae2d042b64acd16"
+
+[[files]]
+file = "config/fabrication/gear_components.ini"
+hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
+
+[[files]]
+file = "config/fabrication/item_despawn.ini"
+hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
+
+[[files]]
+file = "config/fabrication/taggable_players.ini"
+hash = "fe069b4316f910f2f3b703cedd9930b73eed74c2ae86909f8b43a8ffd3d1af45"
+
+[[files]]
+file = "config/fabrication/yeet_recipes.ini"
+hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
+
+[[files]]
 file = "config/plethora.hocon"
 hash = "a7a1149debf8fc7b4a84c5dc300d5c5b30ebdb5aa6ae0fd471657908b90e40b4"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "48ef3a5e4466313503ba9488ca0527298b82e0b8b9d4751e02e1bf60d315035d"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "f9e32de26cce4341d4a7a1ae8b8bbcd00f43240b5d7f5f5f078cddda13c6f762"
 
 [[files]]
 file = "config/supplementaries-common.json"
@@ -957,12 +993,12 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
+hash = "4df7a83e4162bb71e20ef2bea25042daadf04ac5daab143b0035af0405160b65"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
+hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
 metafile = true
 
 [[files]]
