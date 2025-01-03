@@ -12,9 +12,9 @@
     "require_for_formatting": false
   },
   "auto_completion": {
-    "tags": false,
-    "tag_aliases": false,
-    "emoticons": false
+    "tags": true,
+    "tag_aliases": true,
+    "emoticons": true
   },
   "default": {
     "display_name": "${default}",
@@ -75,19 +75,9 @@
       "font": true
     },
     "emoticons": {
-      "potion": "🧪",
       "item": "[%player:equipment_slot mainhand%]",
-      "trident": "🔱",
-      "rod": "🎣",
-      "bow": "🏹",
-      "bell": "🔔",
-      "heart": "❤",
-      "bucket": "🪣",
-      "sword": "🗡",
-      "shears": "✂",
       "pos": "%player:pos_x% %player:pos_y% %player:pos_z%",
       "fire": "🔥",
-      "table": "(╯°□°）╯︵ ┻━┻",
       "thinkies": ":thinking:"
     }
   },

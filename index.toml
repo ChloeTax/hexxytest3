@@ -42,7 +42,7 @@ hash = "a7a1149debf8fc7b4a84c5dc300d5c5b30ebdb5aa6ae0fd471657908b90e40b4"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "48ef3a5e4466313503ba9488ca0527298b82e0b8b9d4751e02e1bf60d315035d"
+hash = "4e8b205e47190b96afbb27d956c1b0ba523432eda775feda61da75e133d4237d"
 
 [[files]]
 file = "config/styled-nicknames.json"
