@@ -553,8 +553,8 @@ hash = "b3530b1c637233f5fc712cb7a9c30413a2270dc8cd878dfddd6477753d2acba9"
 metafile = true
 
 [[files]]
-file = "mods/hexical-1.4.1.jar"
-hash = "a6071e175ba9cfa5cd853e7df8af900b7882c5557f0ca019d5f171bc2749d065"
+file = "mods/hexical-1.5.0.jar"
+hash = "ff7e3272bfc3b0d8f80f30cbd9a597f664cefafabed3fdb665d9c1e5f7924d29"
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
