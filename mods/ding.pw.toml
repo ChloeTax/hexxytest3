@@ -11,3 +11,7 @@ hash = "ba7ab93af224ab89c26eaa754d5635d69e37b074"
 [update.modrinth]
 mod-id = "UEtTD3gP"
 version = "V845ETId"
+
+[option]
+optional = true
+default = false
