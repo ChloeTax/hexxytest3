@@ -1,0 +1,13 @@
+name = "CleanCut"
+filename = "cleancut-fabric-6.0+mc1.19.1-mc1.20.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CCNUnbXG/versions/9GrCNR7Z/cleancut-fabric-6.0%2Bmc1.19.1-mc1.20.x.jar"
+hash-format = "sha1"
+hash = "181804837452d7c0cd0979321fff6537067ead3d"
+
+[update]
+[update.modrinth]
+mod-id = "CCNUnbXG"
+version = "9GrCNR7Z"

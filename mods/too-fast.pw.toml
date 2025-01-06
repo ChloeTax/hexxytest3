@@ -1,0 +1,13 @@
+name = "Too Fast"
+filename = "toofast-fabric-1.20-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/w6JSkKSH/versions/ZyY2Xraw/toofast-fabric-1.20-1.2.0.jar"
+hash-format = "sha1"
+hash = "f28b24f929ffbf960e096fa0327d0d318cb851b3"
+
+[update]
+[update.modrinth]
+mod-id = "w6JSkKSH"
+version = "ZyY2Xraw"
