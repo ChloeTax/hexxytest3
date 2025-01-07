@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-calc.pw.toml"
-hash = "59574a5e9a0c8728f076efddb7d5530c5078dae99bbcaa2a2b2045893226f6ca"
+hash = "2d134b24591ebd18573adffc81d0afdfb00c5009f27b061f88e75a8fee886a5c"
 metafile = true
 
 [[files]]
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "4620c40cc1a4acb7d70b8f262a573d2ec8c67a4843b874363f47c6dcca9cf420"
+hash = "429223f05946cb81a4f1ece26238c0a928d2391ebb299eb4f8615ffac14c648f"
 metafile = true
 
 [[files]]
@@ -678,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+hash = "4ddfcbdd55addfa7a09717ca1b8d055f262a585a3ad836896b8cca6fc89fc49b"
 metafile = true
 
 [[files]]
@@ -843,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "65ed6cbdcdd873b0a04b498f4256c75a2b30764435883101299a50a0b2a3a940"
+hash = "a1004f5ba0a69c4d9816ee5f9e30fd45b7c5c1ae40424cb202cf4f06b159e098"
 metafile = true
 
 [[files]]
@@ -868,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
+hash = "5970228d02d98cdec23d67be9d7804fb82c09371e259f800c5c954e49bc21a69"
 metafile = true
 
 [[files]]
