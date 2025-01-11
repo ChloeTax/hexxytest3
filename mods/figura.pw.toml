@@ -1,13 +1,7 @@
-name = "Figura"
-filename = "figura-0.1.4+1.20.1-fabric-mc.jar"
-side = "client"
+name = "figura"
+filename = "figura-0.1.5-rc.4+1.20.1-fabric-mc.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/s9gIPDom/versions/DhHrk371/figura-0.1.4%2B1.20.1-fabric-mc.jar"
-hash-format = "sha1"
-hash = "260b9cae1dc1087d3007e644e2b43f4d2634914d"
-
-[update]
-[update.modrinth]
-mod-id = "s9gIPDom"
-version = "DhHrk371"
+url = "https://github.com/FiguraMC/Figura/releases/download/0.1.5-rc.4/figura-0.1.5-rc.4+1.20.1-fabric-mc.jar"
+hash-format = "sha256"
+hash = "0ab76a8e7d7fd1e508f668c7029fb0081459d31d7297be9df1bd650cda596220"

@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
-hash = "35b1db6e9b56afde98a76c28461e8d419d3ffafee4567a15aaf6425fdd05ef83"
+hash = "c299f7b5b175dfbc71f748fbc6840e965d848d674d99fc9d633db4396f2cbf55"
 metafile = true
 
 [[files]]
@@ -160,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "378902308a0915f183dc6b28178aa8c387606a1de225bcbbf07785f99fd5e0a5"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
@@ -199,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-security.pw.toml"
-hash = "2e1dffa4820b2f624a9ba3c573b96e219bc934c015483c6304e1f81d29118248"
+hash = "a9f27bd1cf4a290aeebff6118a3132903a2c6e32538e15303fa75368b023b904"
 metafile = true
 
 [[files]]
@@ -308,6 +313,11 @@ hash = "b560a6c5f2a61454ac5ce58c9f65bae9548545f1fb43f18e870c3cda7f082e55"
 metafile = true
 
 [[files]]
+file = "mods/connected-doors.pw.toml"
+hash = "36e109bfe28c73a121af2255192fa74073718f21f16205fc6443b31cfc9d5650"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "49ecefc42964de5b4a69bc66905c52c97f657c15f6368d0813a1444978c42667"
 metafile = true
@@ -380,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
+metafile = true
+
+[[files]]
+file = "mods/deeper-oceans-refabricated.pw.toml"
+hash = "084e89b744ed0d04df34ff231d80676d7b163832cfb5f3fe62b2ef0d200719f6"
 metafile = true
 
 [[files]]
@@ -523,6 +538,11 @@ hash = "170b24c6dd309e8e669cc33f602347fc32a6410736b35de65bae7f998f6b9e4a"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "2626f4f170463f0c3550645ba4699d29aa0c30f1a99e0ff3143782f974fcf2e3"
+metafile = true
+
+[[files]]
 file = "mods/fastback.pw.toml"
 hash = "27058ff24b894fe8d1157017c13db4bb5f4953d9a89a76b7ba0ad9d1723f4d19"
 metafile = true
@@ -544,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
+hash = "9935a4e21a7701685b0d3c74ca61d24c1d02d285eefdbbcd8160f4d01d4a6796"
 metafile = true
 
 [[files]]
@@ -802,6 +822,11 @@ hash = "e186aa00c4db516577a04dc8ff1a080d6f5d488546204566d6afd2cbd8d5f7f8"
 metafile = true
 
 [[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "3cf08f5ee408f1ab8dd7ec2e596b3379ce42806a52623f96c8381fd0cf443d1d"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
@@ -867,6 +892,11 @@ hash = "dfdd6d6e1ddca69c3815fd86c821bef75c195cb7465074a47967b90770ad05ad"
 metafile = true
 
 [[files]]
+file = "mods/numismatics.pw.toml"
+hash = "5af0074c619b72edf695696488b4be2c065d694ae73377a2a2bcee455b32f884"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "5970228d02d98cdec23d67be9d7804fb82c09371e259f800c5c954e49bc21a69"
 metafile = true
@@ -883,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
-hash = "9d88399efa9a59649b9793d2fc988f0c4fdadcdb40db5ae8fa9d1c41320f0674"
+hash = "4202bf2874ec062b08f066c734382a8609a85bcfe17192bdc3a3cfd95214f703"
 metafile = true
 
 [[files]]
@@ -1034,6 +1064,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
+metafile = true
+
+[[files]]
+file = "mods/simple-cobblestone-generator.pw.toml"
+hash = "3bb4f2b66a4cf607556e88894978100e7c1d58effe96b7df7d7e21118043d807"
 metafile = true
 
 [[files]]

@@ -1,7 +1,7 @@
 name = "cc-security"
-filename = "cc-security-1.0.0.jar"
+filename = "cc-security-1.1.0.jar"
 
 [download]
-url = "https://github.com/vgskye/cc-security/releases/download/1.0.0/cc-security-1.0.0.jar"
+url = "https://github.com/vgskye/cc-security/releases/download/1.1.0/cc-security-1.1.0.jar"
 hash-format = "sha256"
-hash = "574378a4a2d56b4b97e3fde6959eb8d624d3fcd7a92d5852e2c0833270e3abce"
+hash = "0e67a131b2139271a4ade7ef1756c776dbb9fb89ba30dc3355ba8669e2d4e484"
