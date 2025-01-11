@@ -5,8 +5,40 @@ file = "config/Spectrum.json5"
 hash = "08a5c2c9b58b6f964ea7626e70538446ff2d467820edd417442d39aea948fb65"
 
 [[files]]
+file = "config/bobby.conf"
+hash = "0842a1c840b5fdb2abce2458d811a67f1aca32dfc9ccde83e4a468e1cdfe5194"
+
+[[files]]
+file = "config/botania-common.json5"
+hash = "ccf9fb9558c6ea11f7a242c3d1c0c6d5de3a8c07151b1c25fb345bb3fbb5c51d"
+
+[[files]]
+file = "config/carryon-common.json"
+hash = "149d11ce4152f36de5a56b24a0713985e69ecfda4e43974670162a9b2f991802"
+
+[[files]]
+file = "config/climbladdersfast.json5"
+hash = "e783427ffa09e1c7e0ada1dface596d41ca5d7d4b4c84ff7d547b7dd6361e677"
+
+[[files]]
 file = "config/convenientdecor.json5"
 hash = "4b8d52175de2ec99ed9562c1bdcde38c912c7aedd59fe0d6b12eb6e5b60090f3"
+
+[[files]]
+file = "config/ding.toml"
+hash = "ca663b5f2af55adcea949c23c65bce7167fd0c0538228e1bfc6e41bb0f4293e7"
+
+[[files]]
+file = "config/do_a_barrel_roll-client.json"
+hash = "70cecf53a1dc7f58813bf758b505f8d8382a8c89aab0914b2d22698e79817e57"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
+hash = "b649b1eb058e6881ea582510d9c9cc78b154822cde0f2afc554184edc26a8cca"
+
+[[files]]
+file = "config/effortless.toml"
+hash = "2959c44525b4ef7af91a03df292728c45c7417adcd93174bc9669215654bdbc3"
 
 [[files]]
 file = "config/fabrication/dimensional_tools.ini"
@@ -37,6 +69,10 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
+file = "config/origins_server.json"
+hash = "9871de0889056c9978339162c61413e357f24833d302556a95fb4763b5cad913"
+
+[[files]]
 file = "config/plethora.hocon"
 hash = "a7a1149debf8fc7b4a84c5dc300d5c5b30ebdb5aa6ae0fd471657908b90e40b4"
 
@@ -50,7 +86,27 @@ hash = "f9e32de26cce4341d4a7a1ae8b8bbcd00f43240b5d7f5f5f078cddda13c6f762"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "7b4cd8d1eb44e1b5921d1784ba18176ec044f0d52b041bf8b768bb4b0b32c4c1"
+hash = "fe8469c4b4764e12ed81198724e5092a30f6ef61cdcdc6811e00060855e5f53d"
+
+[[files]]
+file = "config/veinmining-client.toml"
+hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
+
+[[files]]
+file = "config/veinmining-common.toml"
+hash = "c9f98a6351cafd1e7cda3819e071b42054d5d054c307d790b3c0f523615cd65d"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "391551d6952996805edb64d2b54840f18427168ae9eb39cd30c34b8d18c62fc0"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "3f802718e2939328fea979c3d34fccb9fde6c280c5c699098e68ad14be899607"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "3e279815757ee51a1c1f4f89c545e1fff8ead1d251f83cac4d2114321f1109a7"
 
 [[files]]
 file = "mods/1.21.2-bundle-recipe.pw.toml"

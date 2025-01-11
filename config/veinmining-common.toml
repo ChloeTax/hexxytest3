@@ -1,0 +1,29 @@
+
+[enchantment]
+	#Whether or not this enchantment can be applied on books
+	canApplyOnBooks = true
+	#The minimum enchantability requirement for the first enchantment level
+	#Range: 1 ~ 100
+	minEnchantabilityBase = 15
+	#Whether or not to consider this enchantment as a treasure
+	isTreasure = false
+	#List of enchantments that cannot be applied together with this enchantment
+	incompatibleEnchantments = []
+	#Whether or not this enchantment can be offered by villagers for trade
+	isVillagerTrade = true
+	#Whether or not this enchantment can generate in loot
+	isLootable = true
+	#List of items that the enchantment can be applied on
+	items = ["#c:axes", "#c:pickaxes", "#c:shovels", "#c:hoes", "#c:shears", "hexcasting:jeweler_hammer"]
+	#The number of levels of the enchantment
+	#Range: 1 ~ 5
+	levels = 5
+	#Whether or not this enchantment can be applied at the enchanting table
+	canApplyAtEnchantingTable = true
+	#The additional enchantability requirement for each enchantment level after the first
+	#Range: 1 ~ 100
+	minEnchantabilityPerLevel = 5
+	#The rarity of the enchantment
+	#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+	rarity = "RARE"
+

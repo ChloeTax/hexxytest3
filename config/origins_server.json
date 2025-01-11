@@ -1,0 +1,132 @@
+{
+  "performVersionCheck": true,
+  "origins": {
+    "origins-classes:nitwit": {
+      "enabled": true
+    },
+    "origins:enderian": {
+      "enabled": true
+    },
+    "origins:human": {
+      "enabled": true
+    },
+    "origins_minus:mer": {
+      "enabled": true,
+      "origins_minus:water_breathing": true,
+      "origins_minus:swim_speed": true,
+      "origins_minus:water_vision": true,
+      "origins_minus:aqua_affinity": true,
+      "origins_minus:harvest_seagrass": true,
+      "origins_minus:edible_seagrass": true,
+      "origins:like_water": true,
+      "origins_minus:countercurrent": true,
+      "origins_minus:ocean_free": true,
+      "origins_minus:osmoregulation": true,
+      "origins_minus:mer_particles": true
+    },
+    "origins_minus:dryad": {
+      "enabled": true,
+      "origins_minus:sunlight": true,
+      "origins_minus:no_hunger": true,
+      "origins_minus:vine_whip": true,
+      "origins_minus:bioluminescence": true,
+      "origins_minus:leaf_phasing": true,
+      "origins_minus:leaves_fall_immunity": true,
+      "origins_minus:plant_fall_resistance": true,
+      "origins_minus:old_friends": true,
+      "origins_minus:dryad_particles": true
+    },
+    "origins:feline": {
+      "enabled": true
+    },
+    "origins:elytrian": {
+      "enabled": true
+    },
+    "origins:shulk": {
+      "enabled": true
+    },
+    "origins_minus:sanguine": {
+      "enabled": true,
+      "origins_minus:blood": true,
+      "origins_minus:no_hunger": true,
+      "origins_minus:frenzy": true,
+      "origins_minus:nightstalker": true,
+      "origins_minus:spill": true
+    },
+    "origins_minus:starved": {
+      "enabled": false,
+      "origins_minus:hunger_prevent_death": true,
+      "origins_minus:fast_eating": true,
+      "origins_minus:fast_eating_tooltips": true,
+      "origins_minus:snacking_saturation": true,
+      "origins_minus:satiation": true,
+      "origins_minus:ravenous": true,
+      "origins_minus:buffet_strategy": true
+    },
+    "origins_minus:voidthing": {
+      "enabled": true,
+      "origins_minus:blink": true,
+      "origins_minus:reach": true,
+      "origins_minus:wraparound": true,
+      "origins:ender_particles": true,
+      "origins_minus:voidthing_particles": true
+    },
+    "origins_minus:avian": {
+      "enabled": true,
+      "origins_minus:flap": true,
+      "origins_minus:glide": true,
+      "origins_minus:like_air": true,
+      "origins_minus:wingspan": true,
+      "origins_minus:aerodynamic": true
+    },
+    "origins:merling": {
+      "enabled": true
+    },
+    "origins:phantom": {
+      "enabled": true
+    },
+    "origins:arachnid": {
+      "enabled": true
+    },
+    "origins:blazeborn": {
+      "enabled": true
+    },
+    "origins:avian": {
+      "enabled": true
+    },
+    "origins_minus:steadfast": {
+      "enabled": true,
+      "origins_minus:brace": true,
+      "origins_minus:rescue": true
+    },
+    "origins_minus:wildling": {
+      "enabled": true,
+      "origins_minus:energetic": true,
+      "origins_minus:bound": true,
+      "origins_minus:carefree": true
+    },
+    "origins_minus:hellspawn": {
+      "enabled": true,
+      "origins_minus:fire_immunity": true,
+      "origins_minus:lava_vision": true,
+      "origins_minus:lava_swimming": true,
+      "origins_minus:fire_punch": true,
+      "origins_minus:lava_fall_immunity": true,
+      "origins:flame_particles": true,
+      "origins_minus:flamehardy": true,
+      "origins_minus:molten_cruise": true,
+      "origins_minus:temper_temper": true,
+      "origins_minus:hellspawn_particles": true
+    },
+    "origins_minus:weaver": {
+      "enabled": true,
+      "origins_minus:echolocation": true,
+      "origins_minus:rappel": true,
+      "origins_minus:suffocation_immunity": true,
+      "origins_minus:web_affinity": true,
+      "origins:master_of_webs_no_slowdown": true,
+      "origins_minus:sticky_situations": true,
+      "origins:no_cobweb_slowdown": true
+    }
+  }
+}

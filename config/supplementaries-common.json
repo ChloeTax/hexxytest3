@@ -67,7 +67,7 @@
     "jar": {
       "enabled": true,
       "capacity": 12,
-      "drink_from_jar": false,
+      "drink_from_jar": true,
       "drink_from_jar_item": false,
       "jar_auto_detect": false,
       "jar_capture": true,
@@ -76,7 +76,7 @@
     },
     "cage": {
       "enabled": true,
-      "allow_all_mobs": false,
+      "allow_all_mobs": true,
       "cage_allow_all_babies": false,
       "cage_auto_detect": false,
       "persistent_mobs": false,
@@ -161,7 +161,7 @@
   "building": {
     "blackboard": {
       "enabled": true,
-      "colored_blackboard": false,
+      "colored_blackboard": true,
       "interaction_mode": "BOTH"
     },
     "gravel_bricks": {
@@ -184,7 +184,7 @@
     },
     "item_shelf": {
       "enabled": true,
-      "climbable_shelves": false
+      "climbable_shelves": true
     },
     "sugar_cube": {
       "enabled": true,
@@ -278,7 +278,7 @@
     "quiver": {
       "enabled": false,
       "use_without_slow": true,
-      "slots": 6,
+      "slots": 12,
       "quiver_skeleton_spawn_chance": 0.03,
       "only_works_in_curio": false,
       "quiver_pickup": true
@@ -334,11 +334,11 @@
       "unrestricted_enderman_intercept": true,
       "allow_buckets": true,
       "damageable_damage": 0.5,
-      "allow_splash_potions": false,
-      "allow_bombs": false,
-      "allow_fire_charges": false,
-      "allow_snowballs": false,
-      "allow_enderpearls": false
+      "allow_splash_potions": true,
+      "allow_bombs": true,
+      "allow_fire_charges": true,
+      "allow_snowballs": true,
+      "allow_enderpearls": true
     },
     "antique_ink": {
       "enabled": true
@@ -403,7 +403,7 @@
       "enabled": true,
       "book_power": 1.0,
       "enchanted_book_power": 1.334,
-      "mixed_books": false
+      "mixed_books": true
     },
     "zombie_horse": {
       "zombie_horse_conversion": true,
