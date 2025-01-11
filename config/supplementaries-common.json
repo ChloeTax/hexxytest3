@@ -75,7 +75,7 @@
       "jar_liquids": true
     },
     "cage": {
-      "enabled": true,
+      "enabled": false,
       "allow_all_mobs": true,
       "cage_allow_all_babies": false,
       "cage_auto_detect": false,
