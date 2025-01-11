@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
+hash = "8654ad321d4fa5a9d88dbcd320c5fe41d2c64ebb2420e6283b5d6f6b2213f69c"
 metafile = true
 
 [[files]]
@@ -125,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
 metafile = true
 
 [[files]]
@@ -225,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "fa4caa371b3e50bb3b4dd07912a5eece09ad0af673549815efd7481e6066d7b8"
+metafile = true
+
+[[files]]
+file = "mods/chattoggle.pw.toml"
+hash = "73bd5d3aa580e4236c387cb1d527a16c9a917c45c4aaef2455f7deb1d81e7234"
 metafile = true
 
 [[files]]
@@ -353,6 +363,11 @@ hash = "390bfff188701b2133dccdbe4f88a842e70349c01b7d852229e7ef972eac515e"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "338196f41190bb2c0b34d4a8aa10e0f41bdf339bd436ce3f738762d3e56883b8"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
@@ -373,13 +388,28 @@ hash = "7ed967602b514f1dac78fb7627f2de8e51a2fbcf7c0e61183d34d5ebc1f67d71"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "7ac92bfb24ebf5d9dbb3f1afeca8faf6181c8fe9456eb43a666b475e24b02f26"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "f1449be0d8298f66539f7e84a748dd48192c70f7d264bd05e6dc191b63903d1e"
 metafile = true
 
 [[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "50734a9e35a1daabb1555ef2487979fbef2bb970f4ea579e852dccf962b8a6a5"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
+metafile = true
+
+[[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "93adce5ea0a86dc042dfac4ae7f2f7068e159b57426cd4de2c7db35615f74e28"
 metafile = true
 
 [[files]]
@@ -390,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.pw.toml"
+hash = "68d96a9b15d237709fdc5ddc26a3f528170aa64a7ab65c2b116a367965794619"
 metafile = true
 
 [[files]]
@@ -409,12 +444,17 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "429223f05946cb81a4f1ece26238c0a928d2391ebb299eb4f8615ffac14c648f"
+hash = "d86ed8e92117ac444042b5e43eaae7a816b078706f39674a2ffe8ad6dd15fc01"
 metafile = true
 
 [[files]]
 file = "mods/displaycase.pw.toml"
 hash = "eb74ec42ed67d4661bda3b0ef50c813edfe123263ca78d03dafa5ed8421ef366"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a505c59953646e0434a878cff105b9e6c416b3c0660fb60917a2bd4ed2b150f1"
 metafile = true
 
 [[files]]
@@ -510,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "85e7ea1efb55bd9fa740d0568a6cd2549c7234631329809281607510aac8316d"
+metafile = true
+
+[[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "319b5ecd66c1efbd3741f649dbc71d7d2e8dcdc0ad708c3a4e3e529eccafa0f7"
 metafile = true
 
 [[files]]
@@ -1074,6 +1119,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "63839e2846c860c6a545c1756220f9cc751d513eec32dc764628a32c5739d95f"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "35242355a5725fc5ee4b6e6929f534fdbb32b05e9a7f149f670fcd97eb743079"
 metafile = true
 
 [[files]]
