@@ -893,7 +893,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "5af0074c619b72edf695696488b4be2c065d694ae73377a2a2bcee455b32f884"
+hash = "b56d24874f490a108d04447d850d79a00a41c76adbbd96a81b5fdd5b1e230e72"
 metafile = true
 
 [[files]]
