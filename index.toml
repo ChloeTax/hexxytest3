@@ -86,7 +86,7 @@ hash = "f9e32de26cce4341d4a7a1ae8b8bbcd00f43240b5d7f5f5f078cddda13c6f762"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "fe8469c4b4764e12ed81198724e5092a30f6ef61cdcdc6811e00060855e5f53d"
+hash = "1fa794189a7311c251a64062ba5555e16bfeaefbf105973fe908cb1f672dcf22"
 
 [[files]]
 file = "config/veinmining-client.toml"
