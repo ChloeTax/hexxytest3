@@ -10,7 +10,7 @@ hash = "0842a1c840b5fdb2abce2458d811a67f1aca32dfc9ccde83e4a468e1cdfe5194"
 
 [[files]]
 file = "config/botania-common.json5"
-hash = "ccf9fb9558c6ea11f7a242c3d1c0c6d5de3a8c07151b1c25fb345bb3fbb5c51d"
+hash = "c6d43fd91f458e95009ce6c54f96a9be35dcba33db056a048e196cf509acd9a3"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -23,6 +23,10 @@ hash = "e783427ffa09e1c7e0ada1dface596d41ca5d7d4b4c84ff7d547b7dd6361e677"
 [[files]]
 file = "config/convenientdecor.json5"
 hash = "4b8d52175de2ec99ed9562c1bdcde38c912c7aedd59fe0d6b12eb6e5b60090f3"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "466fea37964c89c3f9f7c2f7dcb49f7d38341d26b36b0f07b42f89aa1fbcc7d9"
 
 [[files]]
 file = "config/ding.toml"
