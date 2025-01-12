@@ -11,3 +11,7 @@ hash = "e96a006c783a8a75d3205b0fbe1e2969821ee1da"
 [update.modrinth]
 mod-id = "1Gr9eipi"
 version = "cyziURH4"
+
+[option]
+default = true
+description = "Figura GoofyPlugin (may be required by avatars, be careful disabling!)"
