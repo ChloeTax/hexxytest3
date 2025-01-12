@@ -13,5 +13,6 @@ mod-id = "1Gr9eipi"
 version = "cyziURH4"
 
 [option]
+optional = true
 default = true
 description = "Figura GoofyPlugin (may be required by avatars, be careful disabling!)"
