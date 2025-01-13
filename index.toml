@@ -762,11 +762,6 @@ hash = "51b15ffe7e536434995a47477b354bc6f6116795f6db767cec1f9cd5fbe0c02e"
 metafile = true
 
 [[files]]
-file = "mods/hexweb.pw.toml"
-hash = "3fad0ece0807f1c9f63ea8fd42d7345f7e35f4e8c2105916192da7dc97c39aec"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "0c834a933a2ff246cf07d630a2de85a2a6235322d53b5da65747699f12a6ba8f"
 metafile = true
