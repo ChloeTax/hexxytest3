@@ -468,11 +468,6 @@ hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
 
 [[files]]
-file = "mods/create-track-map.pw.toml"
-hash = "93adce5ea0a86dc042dfac4ae7f2f7068e159b57426cd4de2c7db35615f74e28"
-metafile = true
-
-[[files]]
 file = "mods/create_oxidized.pw.toml"
 hash = "d475bec9205c4d449195c219026853c05d468cf6897dd5e0b1c797df4411f5b0"
 metafile = true
