@@ -1277,11 +1277,6 @@ hash = "848ba325cf9e9d1bb2e0d892e407ae68c44c014956a4f6a7da48fee94e5dd3e6"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "272d6f810e6ab5d2626b7822252558b68ed69237dd3f3906abcae3c347070735"
-metafile = true
-
-[[files]]
 file = "mods/telluriumforge.pw.toml"
 hash = "b4fb4bf7a7c68aae8186773945d263b9318645b2f2585d638bad45933813f629"
 metafile = true
