@@ -1,0 +1,13 @@
+name = "IngotCraft"
+filename = "ingotcraft-1.20.1-2.4.8-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kma1RCF3/versions/LuzbbXph/ingotcraft-1.20.1-2.4.8-fabric.jar"
+hash-format = "sha1"
+hash = "c6d8a60628ee5fdb239f15c391380f42968cea37"
+
+[update]
+[update.modrinth]
+mod-id = "Kma1RCF3"
+version = "LuzbbXph"

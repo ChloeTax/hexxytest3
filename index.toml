@@ -787,6 +787,11 @@ hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
 
 [[files]]
+file = "mods/ingotcraft.pw.toml"
+hash = "b9a57e6bc3aef6e9f3805d4d106721653283eefaa43f439d2c624aa1bdfa6ffd"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "11afb4a66a709e8dc619f7ec761326340cabe7ff079973d682f87baf7fe4d49f"
 metafile = true
@@ -1339,6 +1344,11 @@ metafile = true
 [[files]]
 file = "mods/turtle-charging-station.pw.toml"
 hash = "b317b39359cae3fe10916e88ea0de32326f960a99977543ea6f2cc9ec9bcd078"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "6e5e66c034770775b9d22b2221d9e716614d9976f394201aaadfdd8a67a69d89"
 metafile = true
 
 [[files]]
