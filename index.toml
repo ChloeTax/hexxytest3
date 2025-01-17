@@ -303,16 +303,6 @@ hash = "5234c49dc3656b45190ab76618c0b2e7f3e5bccc4e5f9b99bc5f6fef9b68bb0f"
 metafile = true
 
 [[files]]
-file = "mods/chipped-express.pw.toml"
-hash = "07fae011cf88e645b1b12133ee983a76a49b3b111058ad2bb8d3c910d93f84c6"
-metafile = true
-
-[[files]]
-file = "mods/chipped-x-create-fabric.pw.toml"
-hash = "92c790e29e84b5e52fab8cc75fad2d8bfe5ed730540fff68388e76bdcfa4f1d7"
-metafile = true
-
-[[files]]
 file = "mods/chunk-debug.pw.toml"
 hash = "ac084f12dc66779c0e8518e54fcad9b644a35a68f419b9c8bb14f7e10cedc253"
 metafile = true
