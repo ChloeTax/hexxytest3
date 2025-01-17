@@ -1,0 +1,13 @@
+name = "FTB Teams (Fabric)"
+filename = "ftb-teams-fabric-2001.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a565eba19816d7ab388901dd92da8c7f4a9448b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5267188
+project-id = 438497

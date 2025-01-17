@@ -313,11 +313,6 @@ hash = "92c790e29e84b5e52fab8cc75fad2d8bfe5ed730540fff68388e76bdcfa4f1d7"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "41c81f095b5a96775d2cf261dc8350e8214ef3a12bfa608f2761634e8560cfb9"
-metafile = true
-
-[[files]]
 file = "mods/chunk-debug.pw.toml"
 hash = "ac084f12dc66779c0e8518e54fcad9b644a35a68f419b9c8bb14f7e10cedc253"
 metafile = true
@@ -688,6 +683,21 @@ hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "794cbc97a8bbbf3b910f1df5ded126923f76e11eec98d2aa6a827f6455e734cd"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "1c54a2d4aa370e2bcb086caad15e4fa36bdd98e825ddda5672bbdcd23ad477df"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "4b6e750998339114bf081528a710bf1f0090b52b9c83b971a727dd55157b67f7"
+metafile = true
+
+[[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "33b0c63ff55058cfb285fbcc50a7adacde22ad699244266c847326377670aabe"
 metafile = true
@@ -725,11 +735,6 @@ metafile = true
 [[files]]
 file = "mods/hexal.pw.toml"
 hash = "5e6e390644e76234572abf86581009c8762ef0bb182585b8921db6750718a4e3"
-metafile = true
-
-[[files]]
-file = "mods/hexalia.pw.toml"
-hash = "3648128722c50eb156ccc62f0d7028f42b0fcf420b1b0bd3228ed9f5ac8a56bb"
 metafile = true
 
 [[files]]
@@ -799,6 +804,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "d2fb9aba12d1c0bafcde37bc71ca679d10630386b01f235ea7ed651093c2905f"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "0e943291f0fac121398c189a34dd5db6c38f07e87c106ee240229dfaddf3591a"
 metafile = true
 
 [[files]]
@@ -1232,6 +1242,11 @@ hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]
+file = "mods/status.pw.toml"
+hash = "51f2a4f7a25d0d0a82c0226362cb27174084f953e6ec29dd8eedd568f9b18f4f"
+metafile = true
+
+[[files]]
 file = "mods/statuseffecttimer.pw.toml"
 hash = "3a2090c0e47a9353148c403ebfc9609d5af7e8fd6beba42084fe799253534433"
 metafile = true
@@ -1304,11 +1319,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
-metafile = true
-
-[[files]]
-file = "mods/trimmable-tools.pw.toml"
-hash = "bdf3bfcf267c1cfde33c85ea7301354b0d2b2f5faa0bcd1d1682a72cb3bb9142"
 metafile = true
 
 [[files]]
