@@ -1063,7 +1063,7 @@ metafile = true
 
 [[files]]
 file = "mods/perfectly-packed.pw.toml"
-hash = "42fb5c9ca1d7a719e48aab3ee7006d58c4fd4ae892476d3b7a3b809937162f5d"
+hash = "c2cda5c61e4973459a2e3df6f20c7e328d2ea06540ba34235b05c399b5c337d8"
 metafile = true
 
 [[files]]
