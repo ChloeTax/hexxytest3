@@ -757,6 +757,11 @@ hash = "51b15ffe7e536434995a47477b354bc6f6116795f6db767cec1f9cd5fbe0c02e"
 metafile = true
 
 [[files]]
+file = "mods/i-want-it-earlier.pw.toml"
+hash = "29c17dd444f1dd2169e620d6a0fc458f674460b9ad3deeaf96bda1fef39c0d36"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "0c834a933a2ff246cf07d630a2de85a2a6235322d53b5da65747699f12a6ba8f"
 metafile = true

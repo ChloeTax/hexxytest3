@@ -1,0 +1,13 @@
+name = "I want it earlier 1.21.4 (Pale Garden)"
+filename = "i-want-it-earlier-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5VeBsBSL/versions/jFlWAZiY/i-want-it-earlier-1.7.0.jar"
+hash-format = "sha1"
+hash = "2d8b3c986f18f82cdf8460efe617a659425b40c1"
+
+[update]
+[update.modrinth]
+mod-id = "5VeBsBSL"
+version = "jFlWAZiY"
