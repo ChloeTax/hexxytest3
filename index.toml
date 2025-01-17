@@ -1162,6 +1162,11 @@ hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
 
 [[files]]
+file = "mods/shuttfup.pw.toml"
+hash = "a849030777af282e83885b88a4dff85d74c1dc3af5426f93b3ebc45dcd846778"
+metafile = true
+
+[[files]]
 file = "mods/simple-cobblestone-generator.pw.toml"
 hash = "3bb4f2b66a4cf607556e88894978100e7c1d58effe96b7df7d7e21118043d807"
 metafile = true
