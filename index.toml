@@ -1420,3 +1420,7 @@ metafile = true
 file = "resourcepacks/ccc.pw.toml"
 hash = "a864f90ec46c0f6dcd94b19d214d02b8605b00dfa568f36d2d5a08d819d6c9ff"
 metafile = true
+
+[[files]]
+file = "scripts/main.zs"
+hash = "bc244196a1c3ae739f6128e8ca0306a48a3d6463f55676532e081e853d18cde8"
