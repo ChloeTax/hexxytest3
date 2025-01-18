@@ -25,6 +25,10 @@ file = "config/convenientdecor.json5"
 hash = "4b8d52175de2ec99ed9562c1bdcde38c912c7aedd59fe0d6b12eb6e5b60090f3"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "86b98ef4e697b0247c7f788ea663c02030f0e3633394e9dc492e112ddf1af070"
+
+[[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "466fea37964c89c3f9f7c2f7dcb49f7d38341d26b36b0f07b42f89aa1fbcc7d9"
 
