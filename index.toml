@@ -478,11 +478,6 @@ hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
 
 [[files]]
-file = "mods/digital-items-3.pw.toml"
-hash = "b54b1cc503cf720f843631dbe68c890a2bbcd6c38e8053ed2d3edcc8f540c7be"
-metafile = true
-
-[[files]]
 file = "mods/ding.pw.toml"
 hash = "d86ed8e92117ac444042b5e43eaae7a816b078706f39674a2ffe8ad6dd15fc01"
 metafile = true
