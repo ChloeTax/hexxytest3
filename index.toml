@@ -643,11 +643,6 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
-file = "mods/figura-goofyplugin.pw.toml"
-hash = "26eb3d573176481f379c55562df9b92a8ccb7ed2c6b515ec6221aad5a0d15e67"
-metafile = true
-
-[[files]]
 file = "mods/figura.pw.toml"
 hash = "9935a4e21a7701685b0d3c74ca61d24c1d02d285eefdbbcd8160f4d01d4a6796"
 metafile = true
