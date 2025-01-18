@@ -463,6 +463,11 @@ hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "68d96a9b15d237709fdc5ddc26a3f528170aa64a7ab65c2b116a367965794619"
 metafile = true
@@ -585,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "85e7ea1efb55bd9fa740d0568a6cd2549c7234631329809281607510aac8316d"
+metafile = true
+
+[[files]]
+file = "mods/expanded-ecosphere.pw.toml"
+hash = "ca4e172d98568eab3635b9182a6e9b30ebd359f8025ace71e169f638bb097e36"
 metafile = true
 
 [[files]]
