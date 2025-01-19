@@ -751,8 +751,8 @@ hash = "b3530b1c637233f5fc712cb7a9c30413a2270dc8cd878dfddd6477753d2acba9"
 metafile = true
 
 [[files]]
-file = "mods/hexical-1.5.0.jar"
-hash = "ff7e3272bfc3b0d8f80f30cbd9a597f664cefafabed3fdb665d9c1e5f7924d29"
+file = "mods/hexical-1.6.0.jar"
+hash = "d606311af29d5ab15bed6e2b351c54a229f33a974f4cf930878bdf27c4ed8899"
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
@@ -1020,6 +1020,10 @@ hash = "a3d9b5354ea3ee3175d0bf72e26d89cb29d244dedec81b502172537631634fd3"
 metafile = true
 
 [[files]]
+file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
+hash = "0b21db82654041de239ded1631f89699f7a5cb4924062d37fe8bab4c6414bd74"
+
+[[files]]
 file = "mods/origins-minus.pw.toml"
 hash = "4202bf2874ec062b08f066c734382a8609a85bcfe17192bdc3a3cfd95214f703"
 metafile = true
@@ -1236,7 +1240,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "718d3932801da4d53828fd672ad343d253a3493f6cea89e8fd58f82a1b98b832"
+hash = "96e1600210b2f40aa5011e9ed1ac2137db3ecc17a616ae3759405d3b3cd545f6"
 metafile = true
 
 [[files]]
