@@ -869,6 +869,10 @@ hash = "285213bce90eecfcdb5e890d40c022d33df365802c5f1875c2905bca77595322"
 metafile = true
 
 [[files]]
+file = "mods/lanishextendedstaves-fabric-1.0.1.jar"
+hash = "638943ecc946b353336bc9ca50ada3916167f961d6e0dc0715c4f00cf5882ede"
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
 metafile = true
