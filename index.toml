@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexical-1.6.0.jar"
-hash = "d606311af29d5ab15bed6e2b351c54a229f33a974f4cf930878bdf27c4ed8899"
+hash = "ff19bc236c94d602092adb1d4d9a81a20ac3c6d6dc23b527524b256c65e96058"
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
