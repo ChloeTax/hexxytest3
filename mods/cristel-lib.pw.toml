@@ -1,6 +1,6 @@
 name = "Cristel Lib"
 filename = "cristellib-1.1.5-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cl223EMc/versions/tBnivdbu/cristellib-1.1.5-fabric.jar"
