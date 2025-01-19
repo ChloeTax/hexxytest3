@@ -121,6 +121,10 @@ file = "config/xaeroworldmap-common.txt"
 hash = "3e279815757ee51a1c1f4f89c545e1fff8ead1d251f83cac4d2114321f1109a7"
 
 [[files]]
+file = "local/ftbchunks/client-config.snbt"
+hash = "8cf66ee49ae1ae955947ec4b57100a4fb0025dfb21a9ad7728ab84313f9c060d"
+
+[[files]]
 file = "mods/1.21.2-bundle-recipe.pw.toml"
 hash = "2e112a2a55a82cf9ac3db6593bfd7b72b3dda85d1734fa699ee07a42353009f0"
 metafile = true
