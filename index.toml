@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "08a5c2c9b58b6f964ea7626e70538446ff2d467820edd417442d39aea948fb65"
+hash = "a49a6a238ece8cb8bae91521b6cec36f0fe54faf189939b845b98ae824a03e99"
 
 [[files]]
 file = "config/bobby.conf"
@@ -14,7 +14,7 @@ hash = "c6d43fd91f458e95009ce6c54f96a9be35dcba33db056a048e196cf509acd9a3"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "149d11ce4152f36de5a56b24a0713985e69ecfda4e43974670162a9b2f991802"
+hash = "ef200f247f80803a22c3e19f002a89a12f191580385d6389855a876fa4dde94d"
 
 [[files]]
 file = "config/climbladdersfast.json5"
@@ -77,6 +77,10 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
+file = "config/figura.json"
+hash = "5edec22ccce0d1db04822dc971270aa4467910cfeb381b0380f3b9c60e669323"
+
+[[files]]
 file = "config/lmft.json"
 hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
@@ -106,15 +110,19 @@ hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
 [[files]]
 file = "config/veinmining-common.toml"
-hash = "c9f98a6351cafd1e7cda3819e071b42054d5d054c307d790b3c0f523615cd65d"
+hash = "bfe7463884c6842483316cd9fc58012987290a9795d69d1d659d23266d7c83e3"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "391551d6952996805edb64d2b54840f18427168ae9eb39cd30c34b8d18c62fc0"
+hash = "3f55a1d7007a06fb8826c210dd831a725e9e6a5896c597fa6a8750e9d14a4568"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
 hash = "3f802718e2939328fea979c3d34fccb9fde6c280c5c699098e68ad14be899607"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "c7337fa261c59c6c558746fe2f7a95036e5a7c2bf21e24fa0164b5de25b5ea12"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -602,6 +610,11 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "85e7ea1efb55bd9fa740d0568a6cd2549c7234631329809281607510aac8316d"
+metafile = true
+
+[[files]]
+file = "mods/exclusions-lib.pw.toml"
+hash = "666fea804a7311241a5052d49c3b15275f1869197318830c55f906166f6b77b9"
 metafile = true
 
 [[files]]
@@ -1453,4 +1466,4 @@ metafile = true
 
 [[files]]
 file = "scripts/main.zs"
-hash = "2000a5234ea83c1129febef6b80487980bd29d8bcf8d00c7c573820b1b9a7536"
+hash = "c4f1555f03d523836516f29e923deb39b63710135d22fe46ea7620c2f4b9a2b2"

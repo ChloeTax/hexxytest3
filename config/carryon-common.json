@@ -71,6 +71,7 @@
     "forbiddenTiles": [
       "#forge:immovable",
       "#forge:relocation_not_supported",
+      "yigd:grave"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
