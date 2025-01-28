@@ -1465,5 +1465,13 @@ hash = "a864f90ec46c0f6dcd94b19d214d02b8605b00dfa568f36d2d5a08d819d6c9ff"
 metafile = true
 
 [[files]]
-file = "scripts/main.zs"
+file = "scripts/common/phials.zs"
+hash = "4b5a7c3488b572846f638cd0c1f31edffb64569b652b2c365059006cb695dd30"
+
+[[files]]
+file = "scripts/recipes/main.zs"
 hash = "f04766abbe80516f509c222972aa1cf5234e035203c20b00901e1eea8e17cc3e"
+
+[[files]]
+file = "scripts/recipes/merge_phials.zs"
+hash = "4344d643d816b732f478e75b5cf3281125b61ddfe9bea184915cdc113a68bced"
