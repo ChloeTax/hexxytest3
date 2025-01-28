@@ -12,9 +12,9 @@ craftingTable.addShaped("origin_orb", <item:origins:orb_of_origin>, [
 ]);
 
 craftingTable.addShaped("splicing_table", <item:hexdebug:splicing_table>, [
-    [<item:minecraft:hexcasting:edified_planks>, <item:hexcasting:charged_amethyst>, <item:minecraft:hexcasting:edified_planks>],
-    [<item:minecraft:amethyst_shard>, <item:minecraft:hexcasting:focus>, <item:minecraft:amethyst_shard>],
-    [<item:minecraft:hexcasting:slate_block>, <item:minecraft:gold_ingot>, <item:minecraft:hexcasting:slate_block>]
+    [<item:hexcasting:edified_planks>, <item:hexcasting:charged_amethyst>, <item:hexcasting:edified_planks>],
+    [<item:minecraft:amethyst_shard>, <item:hexcasting:focus>, <item:minecraft:amethyst_shard>],
+    [<item:hexcasting:slate_block>, <item:minecraft:gold_ingot>, <item:hexcasting:slate_block>]
 ]);
 
 GenericRecipesManager.INSTANCE.remove(<item:createaddition:electrum_amulet>);
