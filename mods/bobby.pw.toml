@@ -15,3 +15,4 @@ version = "2cuVyTav"
 [option]
 optional = true
 default = true
+description = "saves chunks that the server sends you, letting you have a larger render distance (you need to load the chunks first though)"

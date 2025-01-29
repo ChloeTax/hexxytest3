@@ -11,8 +11,3 @@ hash = "a637205931bac5fd455341d82cc32bb181d617f7"
 [update.modrinth]
 mod-id = "TPAYeAOc"
 version = "V0Hz3q2W"
-
-
-[option]
-optional = true
-default = true

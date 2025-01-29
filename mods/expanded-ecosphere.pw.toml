@@ -11,3 +11,8 @@ hash = "2e0676191c408715962d24569faf7b5ecd481bf7"
 [update.modrinth]
 mod-id = "O1XGs7ps"
 version = "xrUchinI"
+
+[option]
+optional = true
+default = true
+description = "disable this if you want to make a superflat world #153"

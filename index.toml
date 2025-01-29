@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "8654ad321d4fa5a9d88dbcd320c5fe41d2c64ebb2420e6283b5d6f6b2213f69c"
+hash = "25dacd12f5b52b3def150a69cf3b613b9fdee4646027c15e5466e90b4527669e"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "ef110bda99269373b1897ca6322509a40885e69174260f07e42e9b8b1335e76b"
+hash = "794fb5184371f7a3b079d5daabcf30198f69b5e10413a93038b0384d0e685ba2"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-calc.pw.toml"
-hash = "2d134b24591ebd18573adffc81d0afdfb00c5009f27b061f88e75a8fee886a5c"
+hash = "c9b988e4f3a65ccad7221518cb21930ff242d687ca16176ff37f9082f5391617"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.pw.toml"
-hash = "5234c49dc3656b45190ab76618c0b2e7f3e5bccc4e5f9b99bc5f6fef9b68bb0f"
+hash = "06fc3146eabc3cf84d3728d0dfe6a6ba072eeb48025511255b5b6f7b8d5e3749"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/deathlog.pw.toml"
-hash = "68d96a9b15d237709fdc5ddc26a3f528170aa64a7ab65c2b116a367965794619"
+hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
 metafile = true
 
 [[files]]
@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "d86ed8e92117ac444042b5e43eaae7a816b078706f39674a2ffe8ad6dd15fc01"
+hash = "32d41385c5f9c8316d29ad8c66ca4392b20cc48ab07c497bbbd78b76848b14b9"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a505c59953646e0434a878cff105b9e6c416b3c0660fb60917a2bd4ed2b150f1"
+hash = "f148d8a01afd7a6760da6e7ba8665efc55ede3648f424762f75ad333973326c8"
 metafile = true
 
 [[files]]
@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-ecosphere.pw.toml"
-hash = "1e736dd85b4b4d0dadc50ec068dc210cf39454632897ed6f37907ef1b370ffa5"
+hash = "58ce7f2e4562390892753e25d008cadfdc78fbbdf36af2875a3cc46a47aba0e4"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "4ddfcbdd55addfa7a09717ca1b8d055f262a585a3ad836896b8cca6fc89fc49b"
+hash = "6ef5a20d29e4e3ddd9b8c0448011facfe3648755b179ac1c3a48d183d82b8db8"
 metafile = true
 
 [[files]]
@@ -1031,7 +1031,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "5970228d02d98cdec23d67be9d7804fb82c09371e259f800c5c954e49bc21a69"
+hash = "adccafb675db47422c698be08666a388e0d54bec16e35775b2b668332836b3f9"
 metafile = true
 
 [[files]]

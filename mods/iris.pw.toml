@@ -15,3 +15,4 @@ version = "JHbrO6Zq"
 [option]
 optional = true
 default = false
+description = "lets you use shaders"

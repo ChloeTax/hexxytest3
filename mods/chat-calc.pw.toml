@@ -15,3 +15,4 @@ version = "jSQCAoBb"
 [option]
 optional = true
 default = true
+description = "lets you type math into your chat box, you can press tab to replace the text with the answer"

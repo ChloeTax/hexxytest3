@@ -15,3 +15,4 @@ version = "EYwStehg"
 [option]
 optional = true
 default = true
+description = "stores the inventories you look into clientside, letting you search through them to find your items"
