@@ -110,7 +110,7 @@ hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
 [[files]]
 file = "config/veinmining-common.toml"
-hash = "bfe7463884c6842483316cd9fc58012987290a9795d69d1d659d23266d7c83e3"
+hash = "02d8648f8cf0c6f6eb7e82b3a91af531929a0b3084e6d7fca88bf7a12ca5f05f"
 
 [[files]]
 file = "config/veinmining-server.toml"

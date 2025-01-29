@@ -23,4 +23,4 @@ minEnchantabilityPerLevel = 5
 #Enchantments that cannot be applied together with the enchantment.
 incompatibleEnchantments = []
 #Items that the enchantment can be applied on.
-itemsList = ["#c:axes", "#c:pickaxes", "#c:shovels", "#c:hoes", "hexcasting:jeweler_hammer"]
+itemsList = ["#minecraft:axes", "#minecraft:pickaxes", "#minecraft:shovels", "#minecraft:hoes", "hexcasting:jeweler_hammer"]
