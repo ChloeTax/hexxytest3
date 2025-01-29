@@ -85,6 +85,10 @@ file = "config/lmft.json"
 hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
 [[files]]
+file = "config/oneironaut/server.json5"
+hash = "ad142c357368166490b53184d0a1c3a582b603909e05ff5371a32d2a179427d1"
+
+[[files]]
 file = "config/origins_server.json"
 hash = "9871de0889056c9978339162c61413e357f24833d302556a95fb4763b5cad913"
 

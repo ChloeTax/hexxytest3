@@ -1,0 +1,12 @@
+{
+	"miscConfig": {
+		"ideaLifetime": 72000,
+		"planeShiftOtherPlayers": true,
+		"swapRequiresNoosphere": false,
+		"swapSwapsBEs": true,
+		"impulseRedirectsFireball": true,
+		"infusionEternalChorus": true,
+		"allowOverworldReflection": true,
+		"allowNetherReflection": true
+	}
+}
