@@ -129,6 +129,10 @@ file = "config/veinmining-server.toml"
 hash = "3f55a1d7007a06fb8826c210dd831a725e9e6a5896c597fa6a8750e9d14a4568"
 
 [[files]]
+file = "config/vmp.properties"
+hash = "d20c5a169838cf2ec9e7b6dbd6c754c8538e27fbc730aa8e205316f187cef542"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "3f802718e2939328fea979c3d34fccb9fde6c280c5c699098e68ad14be899607"
 
