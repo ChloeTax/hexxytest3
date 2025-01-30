@@ -81,6 +81,10 @@ file = "config/figura.json"
 hash = "5edec22ccce0d1db04822dc971270aa4467910cfeb381b0380f3b9c60e669323"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "ee40850a22c917ad9c4b0fd2cffb1f1915f51481f168642dedbc8aff30c7c3bc"
+
+[[files]]
 file = "config/lmft.json"
 hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
@@ -388,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/complex-hex.pw.toml"
-hash = "b560a6c5f2a61454ac5ce58c9f65bae9548545f1fb43f18e870c3cda7f082e55"
+hash = "39d82203de8b115771ae7e29f8c28d1c88a81375d718eb1e55c501999515b706"
 metafile = true
 
 [[files]]
@@ -1045,8 +1049,8 @@ hash = "a3d9b5354ea3ee3175d0bf72e26d89cb29d244dedec81b502172537631634fd3"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
-hash = "0b21db82654041de239ded1631f89699f7a5cb4924062d37fe8bab4c6414bd74"
+file = "mods/oneironaut-fabric-1.20.1-0.5.0-gateway-flight.jar"
+hash = "4a3de3747be6b2c5ceb118d494e80951de28333a33682d19e04a8cac796e514f"
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
@@ -1254,6 +1258,11 @@ hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
+file = "mods/sparkle.pw.toml"
+hash = "92e1ae8fe083bd2203f0510cc23f63ba5acebddf2659811e8de01d36734fd982"
+metafile = true
+
+[[files]]
 file = "mods/spectral-decorations.pw.toml"
 hash = "8c2940897f245345c21c75c264486264e42fe9e2f4b92c2f2a5b399fdc5d88ec"
 metafile = true
@@ -1386,6 +1395,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "c14621c85d8c741560119660e73d8b83963eed5e6c59b33124e1448af5f7fe06"
 metafile = true
 
 [[files]]
