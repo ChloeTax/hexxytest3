@@ -117,6 +117,10 @@ file = "config/supplementaries-common.json"
 hash = "1fa794189a7311c251a64062ba5555e16bfeaefbf105973fe908cb1f672dcf22"
 
 [[files]]
+file = "config/unloaded-activity.json"
+hash = "0caa89ec825c037197342f9ccabffe5844593a442cbbd7c318d2765aab8e7e66"
+
+[[files]]
 file = "config/veinmining-client.toml"
 hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
