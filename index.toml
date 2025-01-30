@@ -5,6 +5,10 @@ file = "config/Spectrum.json5"
 hash = "a49a6a238ece8cb8bae91521b6cec36f0fe54faf189939b845b98ae824a03e99"
 
 [[files]]
+file = "config/ae2-emi-crafting.json"
+hash = "7d20bcad0824d4b3c568fd7af8fc770b71de484da8575e1e0bdda1ac1bb3c2a3"
+
+[[files]]
 file = "config/bobby.conf"
 hash = "0842a1c840b5fdb2abce2458d811a67f1aca32dfc9ccde83e4a468e1cdfe5194"
 
