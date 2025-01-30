@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
-hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
+hash = "dbc574ca740d2a8b319c9de4376ffe21c8d02c44fa1070467864922e2cc1ffc3"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f148d8a01afd7a6760da6e7ba8665efc55ede3648f424762f75ad333973326c8"
+hash = "2147fe694568e16d965d9da95f6fbe154b45086b5ccf9920bfa074ba05ab87a9"
 metafile = true
 
 [[files]]

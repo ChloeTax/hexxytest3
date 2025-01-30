@@ -15,4 +15,4 @@ version = "20nF6i21"
 [option]
 optional = true
 default = false
-description = "stores chunks like bobby, but uses LOD to let you see much farther than normal with less lag"
+description = "stores chunks like bobby, but uses LOD to let you see much farther than normal with less lag, but the options menu is currently broken"

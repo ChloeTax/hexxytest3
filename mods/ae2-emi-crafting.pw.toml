@@ -11,3 +11,9 @@ hash = "1a8d8e4a58c9be517c05c14f36c7d663f65a569f"
 [update.modrinth]
 mod-id = "eVAp8Nkw"
 version = "lEmazn2j"
+
+[option]
+optional = true
+default = false
+description = "allows emi to see ae2 items for recipe trees, but breaks recipe trees for some people, or causes client lag with large ae2 networks"
+
