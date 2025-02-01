@@ -1065,8 +1065,8 @@ hash = "a3d9b5354ea3ee3175d0bf72e26d89cb29d244dedec81b502172537631634fd3"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0-gateway-flight.jar"
-hash = "4a3de3747be6b2c5ceb118d494e80951de28333a33682d19e04a8cac796e514f"
+file = "mods/oneironaut-fabric-1.20.1-0.5.0-no-instakill-bush.jar"
+hash = "1011dcc9ae4adf6b9b1eb0a0d7962198659943977b7dd2c8e044e69312aa999b"
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
