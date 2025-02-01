@@ -1,0 +1,7 @@
+name = "trinkhide"
+filename = "trinkhide-1.0.0.jar"
+
+[download]
+url = "https://github.com/vgskye/trinkhide/releases/download/1.0.0/trinkhide-1.0.0.jar"
+hash-format = "sha256"
+hash = "2a100767a13b8a0829bd2de08ea7ae75c9ed658f0b208e3cf5bcded0db791f5a"

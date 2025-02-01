@@ -1384,6 +1384,11 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
+file = "mods/trinkhide.pw.toml"
+hash = "e7f925b275a0a9ce8d164181d2d98147e87a9ad13b11892eaa9c8186aed44448"
+metafile = true
+
+[[files]]
 file = "mods/truly-modular-archery.pw.toml"
 hash = "0d42de17c5694c1b9e12f8ab9dea72944b538bf2da3b6e2e64b2f888d7f5c140"
 metafile = true
