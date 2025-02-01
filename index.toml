@@ -14,7 +14,7 @@ hash = "0842a1c840b5fdb2abce2458d811a67f1aca32dfc9ccde83e4a468e1cdfe5194"
 
 [[files]]
 file = "config/botania-common.json5"
-hash = "ccf9fb9558c6ea11f7a242c3d1c0c6d5de3a8c07151b1c25fb345bb3fbb5c51d"
+hash = "c6d43fd91f458e95009ce6c54f96a9be35dcba33db056a048e196cf509acd9a3"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -1062,11 +1062,6 @@ metafile = true
 [[files]]
 file = "mods/obsidian29s-tuff-backport.pw.toml"
 hash = "a3d9b5354ea3ee3175d0bf72e26d89cb29d244dedec81b502172537631634fd3"
-metafile = true
-
-[[files]]
-file = "mods/odin-nerf.pw.toml"
-hash = "b95c6e38bb633351591d3fe9df44c38d1969901d803edbd3a26d73a52ae4ad20"
 metafile = true
 
 [[files]]
