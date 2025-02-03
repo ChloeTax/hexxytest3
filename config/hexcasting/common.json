@@ -1,0 +1,9 @@
+{
+  "dustMediaAmount": 10000,
+  "shardMediaAmount": 50000,
+  "chargedCrystalMediaAmount": 100000,
+  "mediaToHealthRate": 10000.0,
+  "cypherCooldown": 8,
+  "trinketCooldown": 5,
+  "artifactCooldown": 3
+}

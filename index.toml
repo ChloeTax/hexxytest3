@@ -85,6 +85,14 @@ file = "config/figura.json"
 hash = "5edec22ccce0d1db04822dc971270aa4467910cfeb381b0380f3b9c60e669323"
 
 [[files]]
+file = "config/hexcasting/common.json"
+hash = "c0e37aeda3a508f8b87dddc1a39769627216978974e35287e6f88f40c0909582"
+
+[[files]]
+file = "config/hexcasting/server.json"
+hash = "c7459c6d88bc4ad3dd0c1a6043842d96f82424524083000401c8cde0441b4e28"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "ee40850a22c917ad9c4b0fd2cffb1f1915f51481f168642dedbc8aff30c7c3bc"
 

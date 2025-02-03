@@ -1,0 +1,41 @@
+{
+  "opBreakHarvestLevel": 3,
+  "maxOpCount": 100000,
+  "maxSpellCircleLength": 1024,
+  "actionDenyList": ["hextweaks:you_like_drinking_potions"],
+  "circleActionDenyList": ["hextweaks:you_like_drinking_potions"],
+  "villagersOffendedByMindMurder": true,
+  "doesTrueNameHaveAmbit": true,
+  "tpDimDenylist": [
+    "twilightforest:twilight_forest"
+  ],
+  "scrollInjectionsRaw": [
+    "minecraft:chests/simple_dungeon 1",
+    "minecraft:chests/abandoned_mineshaft 1",
+    "minecraft:chests/bastion_other 1",
+    "minecraft:chests/nether_bridge 1",
+    "minecraft:chests/jungle_temple 2",
+    "minecraft:chests/desert_pyramid 2",
+    "minecraft:chests/village/village_cartographer 2",
+    "minecraft:chests/shipwreck_map 3",
+    "minecraft:chests/bastion_treasure 3",
+    "minecraft:chests/end_city_treasure 3",
+    "minecraft:chests/ancient_city 4",
+    "minecraft:chests/pillager_outpost 4",
+    "minecraft:chests/woodland_mansion 5",
+    "minecraft:chests/stronghold_library 5"
+  ],
+  "loreInjectionsRaw": [
+    "minecraft:chests/simple_dungeon",
+    "minecraft:chests/abandoned_mineshaft",
+    "minecraft:chests/pillager_outpost",
+    "minecraft:chests/woodland_mansion",
+    "minecraft:chests/stronghold_library",
+    "minecraft:chests/village/village_desert_house",
+    "minecraft:chests/village/village_plains_house",
+    "minecraft:chests/village/village_savanna_house",
+    "minecraft:chests/village/village_snowy_house",
+    "minecraft:chests/village/village_taiga_house"
+  ],
+  "loreChance": 0.4
+}
