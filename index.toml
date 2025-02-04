@@ -14,7 +14,7 @@ hash = "0842a1c840b5fdb2abce2458d811a67f1aca32dfc9ccde83e4a468e1cdfe5194"
 
 [[files]]
 file = "config/botania-common.json5"
-hash = "c6d43fd91f458e95009ce6c54f96a9be35dcba33db056a048e196cf509acd9a3"
+hash = "ccf9fb9558c6ea11f7a242c3d1c0c6d5de3a8c07151b1c25fb345bb3fbb5c51d"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -804,6 +804,11 @@ file = "mods/hexical-1.6.0.jar"
 hash = "9260b2601d78497ffc41f6a0f1c749788aab10d51734a88f8abeba0d2438e788"
 
 [[files]]
+file = "mods/hextended-staves.pw.toml"
+hash = "757774e68391ed09ec99fadf5564db6649519f11a9114b63a4f162932209e11e"
+metafile = true
+
+[[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "8f7b75a7bcea9d950024750ebd4e322da93e8e151a78d1d596b0b0b496f9631c"
 metafile = true
@@ -1070,6 +1075,11 @@ metafile = true
 [[files]]
 file = "mods/obsidian29s-tuff-backport.pw.toml"
 hash = "a3d9b5354ea3ee3175d0bf72e26d89cb29d244dedec81b502172537631634fd3"
+metafile = true
+
+[[files]]
+file = "mods/odin-nerf.pw.toml"
+hash = "d4285aee7a5b7e985c4c9896c4265dc59c5bff4a61cdf3f089228d864ebaedfb"
 metafile = true
 
 [[files]]

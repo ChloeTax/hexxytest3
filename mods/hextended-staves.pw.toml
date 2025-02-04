@@ -1,0 +1,13 @@
+name = "Hextended Staves"
+filename = "lanishextendedstaves-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mvESKiJR/versions/lt0ErKjC/lanishextendedstaves-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "a028937d7bd5907c57d3a6479e1b6e649f154f17"
+
+[update]
+[update.modrinth]
+mod-id = "mvESKiJR"
+version = "lt0ErKjC"
