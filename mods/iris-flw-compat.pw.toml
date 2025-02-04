@@ -14,5 +14,5 @@ version = "CH0C91Te"
 
 [option]
 optional = true
-default = true
+default = false
 description = "improves performance when using shaders with create stuff, this version is for the pack default iris, disable this and update it if you're using another version of iris"
