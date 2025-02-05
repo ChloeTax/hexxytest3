@@ -15,4 +15,4 @@ version = "V845ETId"
 [option]
 optional = true
 default = true
-description = "play a sound when mc starts or when you join a world"
+description = "Plays a configurable sound when Minecraft loads and reaches the Main Menu, connects to a server or finishes reloading resources."

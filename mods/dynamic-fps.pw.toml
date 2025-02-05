@@ -11,3 +11,8 @@ hash = "61b72b772be833cd9a51512eb22424b8110fcdfe"
 [update.modrinth]
 mod-id = "LQ3K71Q1"
 version = "LLIcc8aO"
+
+[option]
+optional = true
+default = true
+description = "Reduce resource usage while Minecraft is in the background or idle."
