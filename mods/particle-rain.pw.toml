@@ -11,3 +11,8 @@ hash = "6c0011a3d40508ae360a1e62bab7754942988e67"
 [update.modrinth]
 mod-id = "nrikgvxm"
 version = "qjs7z4oe"
+
+[option]
+optional = true
+default = true
+description = "Particle Rain replaces the default weather with prettier particle effects."
