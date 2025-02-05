@@ -11,3 +11,8 @@ hash = "280ca9c123137a6e50da903c069708edf51c3ee8"
 [update.modrinth]
 mod-id = "5IIKsxiL"
 version = "JyxFId0E"
+
+[option]
+optional = true
+default = true
+description = "Extreme sound muffler is a client side mod that allows you to muffle sounds selectively."

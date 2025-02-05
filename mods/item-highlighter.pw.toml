@@ -11,3 +11,8 @@ hash = "12fd494098bbcf8d34b1cb939587599594d4e9bf"
 [update.modrinth]
 mod-id = "cVNW5lr6"
 version = "vyEyvJgV"
+
+[option]
+optional = true
+default = true
+description = "Highlights newly picked-up items. Simple and convenient."

@@ -11,3 +11,8 @@ hash = "053db80675d74420c7dcc032f6ade10cbe70b5a2"
 [update.modrinth]
 mod-id = "zFCKsjVY"
 version = "gOeBY3U6"
+
+[option]
+optional = true
+default = true
+description = "Dynamically render Armor Trim patterns!"

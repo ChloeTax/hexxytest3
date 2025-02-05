@@ -14,4 +14,5 @@ version = "s5eFLITc"
 
 [option]
 optional = true
-description = "lets you use shaders"
+default = false
+description = "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs"

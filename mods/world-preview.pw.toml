@@ -11,3 +11,8 @@ hash = "1822951d8694f69b9b722165955549995c00df09"
 [update.modrinth]
 mod-id = "WtfpyicL"
 version = "QQQzLnFB"
+
+[option]
+optional = true
+default = true
+description = "Allows you to preview a map / seed in the new world screen"

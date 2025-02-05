@@ -11,3 +11,8 @@ hash = "a6aa186a3600ae8f1cb019924d3f7079cb8fbee7"
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
 version = "iPRNNpDI"
+
+[option]
+optional = true
+default = true
+description = "This clientside mod adds player heads next to chat messages, as seen on the screenshot above. It makes telling various people in chat apart a bit easier, and it looks hella nice."

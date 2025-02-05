@@ -11,3 +11,8 @@ hash = "f948f21360b9c218d704db20f163c5278811f3cf"
 [update.modrinth]
 mod-id = "iAiqcykM"
 version = "6ZxP81cv"
+
+[option]
+optional = true
+default = true
+description = "Zoom by pressing a hotkey and adjust the zoom factor with your mouse wheel!"
