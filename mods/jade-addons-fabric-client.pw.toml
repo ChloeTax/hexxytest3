@@ -1,6 +1,6 @@
 name = "Jade Addons (Fabric)"
 filename = "JadeAddons-1.20.1-Fabric-5.3.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fThnVRli/versions/u3SyDUBp/JadeAddons-1.20.1-Fabric-5.3.1.jar"
@@ -11,3 +11,8 @@ hash = "aecf3831485f730d557e100e4b925054c1124835"
 [update.modrinth]
 mod-id = "fThnVRli"
 version = "u3SyDUBp"
+
+[option]
+optional = true
+default = true
+description = "Jade additional mod supports for Fabric"

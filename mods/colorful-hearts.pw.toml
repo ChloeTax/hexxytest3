@@ -11,3 +11,8 @@ hash = "59054582d96ee9717e292eae0d20a385dd36568d"
 [update.modrinth]
 mod-id = "wQfMUdZT"
 version = "eBE7QD7E"
+
+[option]
+optional = true
+default = true
+description = "A client side mod that replaces multiple vanilla heart rows with a single row using colored hearts"
