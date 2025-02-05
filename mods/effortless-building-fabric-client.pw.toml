@@ -1,0 +1,18 @@
+name = "Effortless Building (Fabric)"
+filename = "effortless-1.20.1-3.1.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "1a22945484bd30eefb930803a38970e079a37d66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5670216
+project-id = 1091543
+
+[option]
+optional = true
+default = true
+description = "Makes building easier by providing tools like mirrors, arrays, build modes and a block randomizer. For survival and creative mode."

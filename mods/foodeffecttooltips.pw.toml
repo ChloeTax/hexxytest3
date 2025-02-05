@@ -11,3 +11,8 @@ hash = "346591a33fcb4dc27f9e0ebc46738a1666b9fd14"
 [update.modrinth]
 mod-id = "GGfyJWnG"
 version = "aJiMrtqD"
+
+[option]
+optional = true
+default = true
+description = "Adds Tooltips to food that gives Status Effects when eaten"
