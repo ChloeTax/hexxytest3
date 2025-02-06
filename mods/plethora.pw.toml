@@ -1,7 +1,0 @@
-name = "plethora"
-filename = "Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
-
-[download]
-url = "http://limbo.skye.vg/hexal/Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
-hash-format = "sha256"
-hash = "a0ba090fead330b6d15cda854d29d3e4b5c19adaab1f280a9c17635657ed31cf"

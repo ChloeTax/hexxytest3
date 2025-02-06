@@ -170,6 +170,10 @@ hash = "2e112a2a55a82cf9ac3db6593bfd7b72b3dda85d1734fa699ee07a42353009f0"
 metafile = true
 
 [[files]]
+file = "mods/Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
+hash = "a0ba090fead330b6d15cda854d29d3e4b5c19adaab1f280a9c17635657ed31cf"
+
+[[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
 hash = "dbc574ca740d2a8b319c9de4376ffe21c8d02c44fa1070467864922e2cc1ffc3"
 metafile = true
@@ -785,9 +789,8 @@ hash = "a062040e25906154ee421d2eaf36387576b54cccf5bbed8cc7ae164e1d0a947c"
 metafile = true
 
 [[files]]
-file = "mods/hexal.pw.toml"
-hash = "aa5d7ef5a1f977b7244c459c7c0709df99fc8967c9e0661af62032edcbb64cdd"
-metafile = true
+file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial.jar"
+hash = "1ce9a6e7a1eca8899db4960b96e6a3a4fe60c0abee6b21ae43e192ce2287408a"
 
 [[files]]
 file = "mods/hexcassettes.pw.toml"
@@ -1140,11 +1143,6 @@ metafile = true
 [[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "a0fb6a028f0c5b75ca2cc625cf81eec3e84ea856762df2561d2dbcb28c65289a"
-metafile = true
-
-[[files]]
-file = "mods/plethora.pw.toml"
-hash = "e420430bc343e728b896bca68b91c55e36f70a6b60f3221473577638259c44c9"
 metafile = true
 
 [[files]]
