@@ -9,6 +9,14 @@ file = "config/ae2-emi-crafting.json"
 hash = "7d20bcad0824d4b3c568fd7af8fc770b71de484da8575e1e0bdda1ac1bb3c2a3"
 
 [[files]]
+file = "config/ae2/client.json"
+hash = "c1a4e1058ad7970f2f4d83aab93afda83ea713026c8ebc1d63942ee66a6d3c66"
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "71b18b0d91c6e3be6d4bcc44faaf461158bdfccbd69feddac924da376e07d373"
+
+[[files]]
 file = "config/bobby.conf"
 hash = "0842a1c840b5fdb2abce2458d811a67f1aca32dfc9ccde83e4a468e1cdfe5194"
 
@@ -1531,7 +1539,7 @@ hash = "4b5a7c3488b572846f638cd0c1f31edffb64569b652b2c365059006cb695dd30"
 
 [[files]]
 file = "scripts/recipes/main.zs"
-hash = "f04766abbe80516f509c222972aa1cf5234e035203c20b00901e1eea8e17cc3e"
+hash = "da95f128edfae39a13a6fd5917093536b0c2aebf99ad53f34f0aada5fa070649"
 
 [[files]]
 file = "scripts/recipes/merge_phials.zs"
