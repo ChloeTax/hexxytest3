@@ -788,6 +788,11 @@ hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
 
 [[files]]
+file = "mods/help-from-hexxy.pw.toml"
+hash = "645f358ab69896b1503bb26e850e139654defe8aac4c37520e77caaf04d93717"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "a062040e25906154ee421d2eaf36387576b54cccf5bbed8cc7ae164e1d0a947c"
 metafile = true

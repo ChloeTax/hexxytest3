@@ -1,0 +1,13 @@
+name = "Help From Hexxy"
+filename = "helpfromhexxy-fabric-1.20.1-0.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eUqaq0aE/versions/aHSICn5G/helpfromhexxy-fabric-1.20.1-0.1.0.jar"
+hash-format = "sha1"
+hash = "6b74be3d94cfc77db3a1ab6c023698040e969226"
+
+[update]
+[update.modrinth]
+mod-id = "eUqaq0aE"
+version = "aHSICn5G"
