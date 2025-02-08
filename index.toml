@@ -9,10 +9,6 @@ file = "config/ae2-emi-crafting.json"
 hash = "7d20bcad0824d4b3c568fd7af8fc770b71de484da8575e1e0bdda1ac1bb3c2a3"
 
 [[files]]
-file = "config/ae2/client.json"
-hash = "c1a4e1058ad7970f2f4d83aab93afda83ea713026c8ebc1d63942ee66a6d3c66"
-
-[[files]]
 file = "config/ae2/common.json"
 hash = "71b18b0d91c6e3be6d4bcc44faaf461158bdfccbd69feddac924da376e07d373"
 
