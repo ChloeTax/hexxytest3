@@ -11,3 +11,8 @@ hash = "fe6d0513ac332d890f1bd9bb9354a8e240b8f0e5"
 [update.modrinth]
 mod-id = "Orvt0mRa"
 version = "VlLxDisa"
+
+[option]
+optional = true
+default = true
+
