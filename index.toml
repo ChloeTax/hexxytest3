@@ -818,7 +818,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexical-1.6.0.jar"
-hash = "1adbc2caf47168ce9a77d078e23812048070a9966cc69a313da65c2bb2689d0a"
+hash = "d29301b02db37a2e4c8e93b63cd147c92f44e6532950667e4ffb90f5187adb23"
 
 [[files]]
 file = "mods/hextended-staves.pw.toml"
@@ -1492,6 +1492,10 @@ metafile = true
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
+
+[[files]]
+file = "mods/wget-log"
+hash = "aa777fe3452fe564712869fa8f4d556a0508d5a9b4e55eeebc7ff246a8c7f19a"
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
