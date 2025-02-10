@@ -1498,10 +1498,6 @@ hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
-file = "mods/wget-log"
-hash = "aa777fe3452fe564712869fa8f4d556a0508d5a9b4e55eeebc7ff246a8c7f19a"
-
-[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "d9439d9594d8666f09ac0634ee9bbcf82c430de010896f87e7cd44d17a4391d7"
 metafile = true
