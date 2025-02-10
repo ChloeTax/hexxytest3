@@ -648,6 +648,10 @@ hash = "ca512e9453708c8b4e145e9a24d7b74603ea7d4737f03028c7f1b9f4cdb0bc2d"
 metafile = true
 
 [[files]]
+file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
+hash = "2bd8dc6eec778051244f4136564aea6f4c1d2598ed32f29f203436b5f7e06d0b"
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "85e7ea1efb55bd9fa740d0568a6cd2549c7234631329809281607510aac8316d"
 metafile = true
