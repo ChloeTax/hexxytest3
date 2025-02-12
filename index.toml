@@ -1548,7 +1548,7 @@ hash = "4b5a7c3488b572846f638cd0c1f31edffb64569b652b2c365059006cb695dd30"
 
 [[files]]
 file = "scripts/recipes/main.zs"
-hash = "da95f128edfae39a13a6fd5917093536b0c2aebf99ad53f34f0aada5fa070649"
+hash = "a36594eec3e65d39aa210a84d6cb4091eea8ecc691957d762f547fbbf422bf82"
 
 [[files]]
 file = "scripts/recipes/merge_phials.zs"
