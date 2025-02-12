@@ -19,3 +19,4 @@ craftingTable.addShaped("splicing_table", <item:hexdebug:splicing_table>, [
 
 GenericRecipesManager.INSTANCE.remove(<item:createaddition:electrum_amulet>);
 GenericRecipesManager.INSTANCE.remove(<item:ae2:spatial_anchor>);
+GenericRecipesManager.INSTANCE.remove(<item:turtlematic:chunk_vial>);
