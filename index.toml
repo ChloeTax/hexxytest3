@@ -1141,6 +1141,11 @@ hash = "21fde8b12697f1a58de50f5b0c6c1db0df16c3c1c8f3240f5e4bf46744f1927f"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "b50bbc0dc9bbf0e1d88aa354c2bd8f870cc6313394f29eff6807652db82defcc"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "fb1c9c7a93970c008361d93a49065c7ceb970bd4667dc969a13d4838e06f6773"
 metafile = true
