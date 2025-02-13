@@ -117,6 +117,14 @@ file = "config/plethora.hocon"
 hash = "a7a1149debf8fc7b4a84c5dc300d5c5b30ebdb5aa6ae0fd471657908b90e40b4"
 
 [[files]]
+file = "config/status/state-client.properties"
+hash = "0b2d443b55005de50ea8866a4c3bce702b8b3d751f6ae6b0b38f55f03107ef17"
+
+[[files]]
+file = "config/status/status-server.properties"
+hash = "72258bcf6f07940f782e48275aea915f726962de5b84ab323f5b552210b7fd97"
+
+[[files]]
 file = "config/styled-chat.json"
 hash = "4e8b205e47190b96afbb27d956c1b0ba523432eda775feda61da75e133d4237d"
 
@@ -1553,11 +1561,3 @@ hash = "a36594eec3e65d39aa210a84d6cb4091eea8ecc691957d762f547fbbf422bf82"
 [[files]]
 file = "scripts/recipes/merge_phials.zs"
 hash = "4344d643d816b732f478e75b5cf3281125b61ddfe9bea184915cdc113a68bced"
-
-[[files]]
-file = "status/state-client.properties"
-hash = "d9a8369f3a8bf0e717e34cdf16af516a77563537e4e8583791e63800f1a94bbf"
-
-[[files]]
-file = "status/status-server.properties"
-hash = "72258bcf6f07940f782e48275aea915f726962de5b84ab323f5b552210b7fd97"
