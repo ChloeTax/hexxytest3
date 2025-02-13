@@ -829,8 +829,8 @@ hash = "b3530b1c637233f5fc712cb7a9c30413a2270dc8cd878dfddd6477753d2acba9"
 metafile = true
 
 [[files]]
-file = "mods/hexical-1.6.0.jar"
-hash = "f3f55516c6ed4b612fdd47edbba8b83b379530359a04a1c06cd405848d8317d0"
+file = "mods/hexical-2.0.0.jar"
+hash = "32a12f1676609498ebccd2ea5cbf7677a8adeebff73945a6e93c37fff12f9b7e"
 
 [[files]]
 file = "mods/hextended-staves.pw.toml"
@@ -1128,7 +1128,7 @@ metafile = true
 
 [[files]]
 file = "mods/overevaluate-1.0.0.jar"
-hash = "1f5982cc3fe34188f5294bb92759db3a64ad8c3690cbc2e22127001a3a4d0fcb"
+hash = "bf53453ba4a60c969294a52b8e7886a2a8f9aed0a5ad5f8c30680eedbf82db8a"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
