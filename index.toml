@@ -656,6 +656,10 @@ hash = "ca512e9453708c8b4e145e9a24d7b74603ea7d4737f03028c7f1b9f4cdb0bc2d"
 metafile = true
 
 [[files]]
+file = "mods/ephemera-fabric-1.20.1-0.3.0-seshat.jar"
+hash = "feb04782f00c123b052e13b07dd198014144090ded4d8a0c8bbdd990382f14e1"
+
+[[files]]
 file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
 hash = "2bd8dc6eec778051244f4136564aea6f4c1d2598ed32f29f203436b5f7e06d0b"
 
@@ -810,8 +814,9 @@ hash = "a062040e25906154ee421d2eaf36387576b54cccf5bbed8cc7ae164e1d0a947c"
 metafile = true
 
 [[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial.jar"
-hash = "1ce9a6e7a1eca8899db4960b96e6a3a4fe60c0abee6b21ae43e192ce2287408a"
+file = "mods/hexal-fabric-1-20-1.pw.toml"
+hash = "00f63aded45093ebf75c940bb1926f2f5c58ed8d434993315396b6e2cd7a3a38"
+metafile = true
 
 [[files]]
 file = "mods/hexcassettes.pw.toml"
@@ -1111,10 +1116,6 @@ metafile = true
 file = "mods/odin-nerf.pw.toml"
 hash = "d4285aee7a5b7e985c4c9896c4265dc59c5bff4a61cdf3f089228d864ebaedfb"
 metafile = true
-
-[[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0-no-instakill-bush.jar"
-hash = "1011dcc9ae4adf6b9b1eb0a0d7962198659943977b7dd2c8e044e69312aa999b"
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
