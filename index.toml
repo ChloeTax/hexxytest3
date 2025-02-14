@@ -660,10 +660,6 @@ file = "mods/ephemera-fabric-1.20.1-0.3.0-seshat.jar"
 hash = "feb04782f00c123b052e13b07dd198014144090ded4d8a0c8bbdd990382f14e1"
 
 [[files]]
-file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
-hash = "2bd8dc6eec778051244f4136564aea6f4c1d2598ed32f29f203436b5f7e06d0b"
-
-[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "85e7ea1efb55bd9fa740d0568a6cd2549c7234631329809281607510aac8316d"
 metafile = true
@@ -1116,6 +1112,10 @@ metafile = true
 file = "mods/odin-nerf.pw.toml"
 hash = "d4285aee7a5b7e985c4c9896c4265dc59c5bff4a61cdf3f089228d864ebaedfb"
 metafile = true
+
+[[files]]
+file = "mods/oneironaut-fabric-1.20.1-0.5.0-no-instakill-bush.jar"
+hash = "1011dcc9ae4adf6b9b1eb0a0d7962198659943977b7dd2c8e044e69312aa999b"
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
