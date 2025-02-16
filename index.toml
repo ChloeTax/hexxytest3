@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal-fabric-1-20-1.pw.toml"
-hash = "00f63aded45093ebf75c940bb1926f2f5c58ed8d434993315396b6e2cd7a3a38"
+hash = "0d9a68586f770178c9ff699db60de8011d8772687762754279cde9cad81d9f64"
 metafile = true
 
 [[files]]
