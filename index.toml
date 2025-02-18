@@ -1114,8 +1114,8 @@ hash = "d4285aee7a5b7e985c4c9896c4265dc59c5bff4a61cdf3f089228d864ebaedfb"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0-no-instakill-bush.jar"
-hash = "1011dcc9ae4adf6b9b1eb0a0d7962198659943977b7dd2c8e044e69312aa999b"
+file = "mods/oneironaut-fabric-1.20.1-0.5.0-monkfruit-seminerf.jar"
+hash = "aeaa0de3c824fdf7a728156cfb90af4b2c24ab024081e8d0eb9d635ff9b4a68f"
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
