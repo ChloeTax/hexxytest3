@@ -839,11 +839,6 @@ hash = "757774e68391ed09ec99fadf5564db6649519f11a9114b63a4f162932209e11e"
 metafile = true
 
 [[files]]
-file = "mods/hextweaks.pw.toml"
-hash = "adf74e7dc21cc40861ad08997dff0a85e20859d06484462e48a191417e24c476"
-metafile = true
-
-[[files]]
 file = "mods/hexvr.pw.toml"
 hash = "51b15ffe7e536434995a47477b354bc6f6116795f6db767cec1f9cd5fbe0c02e"
 metafile = true
