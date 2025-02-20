@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/codeStyles/Project.xml"
+hash = "99023cd231a20f51b11fe16eed55a5000aaaa111aa8cfb574d22e1034fe0d7dd"
+
+[[files]]
+file = ".idea/codeStyles/codeStyleConfig.xml"
+hash = "643f8c6d59b730b5b1cafc4ad85300efe30250f2cf34753625f714dc65484172"
+
+[[files]]
+file = ".idea/hexxytest3.iml"
+hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
+
+[[files]]
+file = ".idea/libraries/mods.xml"
+hash = "95d532b9189f9ad2c8ce739ecc2d8e80fb2037a1ee343b68a433a17f96b629f4"
+
+[[files]]
+file = ".idea/libraries/pack.xml"
+hash = "76a48a428448c23409cc249bcc2c217fa1ed9f543465b5bb99d10596fb21c527"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "c90f4540ff948ffce28efb02ab2d429833d320c2cde8e8eb4f3e8b424a9cf7bb"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "9d4f66b0854d1b0675aa222f1d214c987bdbd95fad463602222f951930948575"
+
+[[files]]
+file = ".idea/shelf/Uncommitted_changes_before_Update_at_2_19_25,_4_17 PM_[Changes]/shelved.patch"
+hash = "e9ea69bbb55657cc7699a6623d3ef3867c212a26ddfcd13f3f3978b333a358b5"
+
+[[files]]
+file = ".idea/shelf/Uncommitted_changes_before_Update_at_2_19_25,_4_17 PM_[Changes]1/shelved.patch"
+hash = "6dd02fc0177650aaa18fafa002433831a4a9d6878963de0d6a30e85974a396bb"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
+
+[[files]]
 file = "config/Spectrum.json5"
 hash = "a49a6a238ece8cb8bae91521b6cec36f0fe54faf189939b845b98ae824a03e99"
 
@@ -836,6 +876,11 @@ hash = "cf488c9738964ceae7a40b3deed477e6b6be23da64c3498e1f1c7aa3e202f4b9"
 [[files]]
 file = "mods/hextended-staves.pw.toml"
 hash = "757774e68391ed09ec99fadf5564db6649519f11a9114b63a4f162932209e11e"
+metafile = true
+
+[[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "a51ac11cfbea1cde619a5d7cbfb9fdc7c0af4091d53a9249d9889a293f8829d2"
 metafile = true
 
 [[files]]
