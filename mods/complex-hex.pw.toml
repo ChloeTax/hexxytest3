@@ -1,13 +1,13 @@
 name = "Complex Hex"
-filename = "complexhex-fabric-1.20.1-0.1.1-beta.jar"
+filename = "complexhex-fabric-1.20.1-0.1.2-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sLUv4r1B/versions/YfLtw1LV/complexhex-fabric-1.20.1-0.1.1-beta.jar"
+url = "https://cdn.modrinth.com/data/sLUv4r1B/versions/dA257xXP/complexhex-fabric-1.20.1-0.1.2-beta.jar"
 hash-format = "sha1"
-hash = "5e1fa622c206818e33f7d9935080508aeec0f897"
+hash = "781c77348429402069d1d73be823e071e813940b"
 
 [update]
 [update.modrinth]
 mod-id = "sLUv4r1B"
-version = "YfLtw1LV"
+version = "dA257xXP"

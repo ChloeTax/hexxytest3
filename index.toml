@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/complex-hex.pw.toml"
-hash = "39d82203de8b115771ae7e29f8c28d1c88a81375d718eb1e55c501999515b706"
+hash = "ff10c7486b9ae36dacf7b623c2ce401bb00bb84322a0402786f0eb41231abfbe"
 metafile = true
 
 [[files]]
@@ -831,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexical-2.0.0.jar"
-hash = "cf488c9738964ceae7a40b3deed477e6b6be23da64c3498e1f1c7aa3e202f4b9"
+hash = "804fad06fced8dc8a48b181205d702d6a27bd014f85ef9d0f41ae856d3d5ac1e"
 
 [[files]]
 file = "mods/hextended-staves.pw.toml"
@@ -1432,9 +1432,8 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
-file = "mods/trinkhide.pw.toml"
-hash = "e7f925b275a0a9ce8d164181d2d98147e87a9ad13b11892eaa9c8186aed44448"
-metafile = true
+file = "mods/trinkhide-1.0.0+2a45046.jar"
+hash = "c576c51096b9a8ef40966be810aaf1c067bf6a00493e8ae5d24626b9ca43e235"
 
 [[files]]
 file = "mods/truly-modular-archery.pw.toml"
@@ -1557,7 +1556,7 @@ hash = "4b5a7c3488b572846f638cd0c1f31edffb64569b652b2c365059006cb695dd30"
 
 [[files]]
 file = "scripts/recipes/main.zs"
-hash = "a36594eec3e65d39aa210a84d6cb4091eea8ecc691957d762f547fbbf422bf82"
+hash = "08250413fcde97981dba81c0c3c4e5f401842c0cb99ee7cb89dcc062279ba015"
 
 [[files]]
 file = "scripts/recipes/merge_phials.zs"
