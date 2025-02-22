@@ -810,9 +810,8 @@ hash = "a062040e25906154ee421d2eaf36387576b54cccf5bbed8cc7ae164e1d0a947c"
 metafile = true
 
 [[files]]
-file = "mods/hexal-fabric-1-20-1.pw.toml"
-hash = "0d9a68586f770178c9ff699db60de8011d8772687762754279cde9cad81d9f64"
-metafile = true
+file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial.jar"
+hash = "86abf66462c550702071a7c12e2d1e6f063b91f48b1515a89b8b4eef60bfa7fa"
 
 [[files]]
 file = "mods/hexcassettes.pw.toml"
