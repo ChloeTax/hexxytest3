@@ -236,6 +236,11 @@ hash = "eb4377f8e33d5040f2aaf9fde5c5799159db864b91fab6908ef12bb1836483e3"
 metafile = true
 
 [[files]]
+file = "mods/appspec.pw.toml"
+hash = "5f913d566ba917e631eb17b3815937b032910d5d988243592a0ab61252ca4781"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
