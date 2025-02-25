@@ -661,8 +661,8 @@ hash = "ca512e9453708c8b4e145e9a24d7b74603ea7d4737f03028c7f1b9f4cdb0bc2d"
 metafile = true
 
 [[files]]
-file = "mods/ephemera-fabric-1.20.1-0.3.0-seshat.jar"
-hash = "feb04782f00c123b052e13b07dd198014144090ded4d8a0c8bbdd990382f14e1"
+file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
+hash = "eefc0f28b3f5ce9c91f214b70cae4c9707c9eb5d607cafe91145ceeec981a75e"
 
 [[files]]
 file = "mods/estrogen.pw.toml"
@@ -1113,8 +1113,8 @@ hash = "d4285aee7a5b7e985c4c9896c4265dc59c5bff4a61cdf3f089228d864ebaedfb"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0-monkfruit-seminerf.jar"
-hash = "aeaa0de3c824fdf7a728156cfb90af4b2c24ab024081e8d0eb9d635ff9b4a68f"
+file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
+hash = "a3650dba955fd6024df7eee6c1d768ad274f3ec7e35873a2e26fc0325c8f2c92"
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
