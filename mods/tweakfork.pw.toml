@@ -1,0 +1,13 @@
+name = "Tweakfork"
+filename = "tweakfork-fabric-1.20.1-1.2.3.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Andrews54757/tweakfork/releases/download/1.2.3.120/tweakfork-fabric-1.20.1-1.2.3.jar"
+hash-format = "sha1"
+hash = "ee499ff16cff714bf7091dcfb3ba8f6e6dcc9007"
+
+[option]
+default = true
+description = "A modified small client-side Minecraft mod that adds various configurable tweaks - plus some more"
+optional = true

@@ -1,0 +1,18 @@
+name = "HexVR"
+filename = "HexVR-1.5.1 [FABRIC 1.20.1].jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JGVJRpis/versions/baAJxtf0/HexVR-1.5.1%20%5BFABRIC%201.20.1%5D.jar"
+hash-format = "sha1"
+hash = "6c36c873e759a9294f0f4bfc29b31ef7955a7fb2"
+
+[update]
+[update.modrinth]
+mod-id = "JGVJRpis"
+version = "baAJxtf0"
+
+[option]
+optional = true
+default = true
+description = "HexVR is a client-side addon to Hexcasting to make it better to use with Vivecraft which is a VR mod for Minecraft."

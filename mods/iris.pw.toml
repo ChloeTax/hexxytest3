@@ -15,4 +15,4 @@ version = "JHbrO6Zq"
 [option]
 optional = true
 default = false
-description = "lets you use shaders"
+description = "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs"

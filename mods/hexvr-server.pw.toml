@@ -1,6 +1,6 @@
 name = "HexVR"
 filename = "HexVR-1.5.1 [FABRIC 1.20.1].jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/JGVJRpis/versions/baAJxtf0/HexVR-1.5.1%20%5BFABRIC%201.20.1%5D.jar"

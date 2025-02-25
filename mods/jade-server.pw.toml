@@ -1,6 +1,6 @@
 name = "Jade 🔍"
 filename = "Jade-1.20-Fabric-11.12.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/Lvyx1o7I/Jade-1.20-Fabric-11.12.0.jar"

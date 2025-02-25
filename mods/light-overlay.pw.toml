@@ -11,3 +11,8 @@ hash = "ba9d6db7b84d9b00b74e4fb04f137c96d080cb0a"
 [update.modrinth]
 mod-id = "YfOlc91N"
 version = "FQVuf0Wz"
+
+[option]
+optional = true
+default = true
+description = "A simple mod to provide users with NEI-like light level overlay."
