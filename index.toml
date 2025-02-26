@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/appspec.pw.toml"
-hash = "5f913d566ba917e631eb17b3815937b032910d5d988243592a0ab61252ca4781"
+hash = "53e8fbbc58f040d1e0450debaa50d1ee931802ad9e3cbe817cfc8b91ce5952e8"
 metafile = true
 
 [[files]]
