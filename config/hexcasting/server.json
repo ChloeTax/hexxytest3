@@ -2,8 +2,8 @@
   "opBreakHarvestLevel": 3,
   "maxOpCount": 100000,
   "maxSpellCircleLength": 1024,
-  "actionDenyList": ["hextweaks:you_like_drinking_potions"],
-  "circleActionDenyList": ["hextweaks:you_like_drinking_potions"],
+  "actionDenyList": ["hextweaks:nadith"],
+  "circleActionDenyList": ["hextweaks:nadith"],
   "villagersOffendedByMindMurder": true,
   "doesTrueNameHaveAmbit": true,
   "tpDimDenylist": [
