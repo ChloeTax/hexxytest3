@@ -94,7 +94,7 @@ hash = "c0e37aeda3a508f8b87dddc1a39769627216978974e35287e6f88f40c0909582"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "c7459c6d88bc4ad3dd0c1a6043842d96f82424524083000401c8cde0441b4e28"
+hash = "708950a7ef0064674e63133ace68969198f71dfc3ae9b5ace1115c32fda0ddc1"
 
 [[files]]
 file = "config/lithium.properties"
@@ -840,6 +840,11 @@ hash = "804fad06fced8dc8a48b181205d702d6a27bd014f85ef9d0f41ae856d3d5ac1e"
 [[files]]
 file = "mods/hextended-staves.pw.toml"
 hash = "757774e68391ed09ec99fadf5564db6649519f11a9114b63a4f162932209e11e"
+metafile = true
+
+[[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "d3769693ec91a33835ee83169868a6dea97529725cfd61ffaf8bd226ef610e89"
 metafile = true
 
 [[files]]
