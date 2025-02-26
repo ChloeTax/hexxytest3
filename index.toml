@@ -888,6 +888,11 @@ hash = "11afb4a66a709e8dc619f7ec761326340cabe7ff079973d682f87baf7fe4d49f"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "07506ecab05d7d18f6a94091083c5a99d9f626451ed431805e55a741b1819f6f"
+metafile = true
+
+[[files]]
 file = "mods/iris-flw-compat.pw.toml"
 hash = "c84178da354179a371fcbb8de31722a1d30345c39e6be2ec1159d01690aa9760"
 metafile = true
@@ -960,6 +965,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "3de6db38b0870f8bc8c61b2698d4b64ac1610b9066536be1b22b3a8257ab73fe"
 metafile = true
 
 [[files]]
