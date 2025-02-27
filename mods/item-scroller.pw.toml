@@ -1,0 +1,18 @@
+name = "Item Scroller"
+filename = "itemscroller-fabric-1.20.1-0.20.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "076b4d6ea4eb24d74416641025379a5ab8cf6bb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4593079
+project-id = 242064
+
+[option]
+default = true
+description = "A client-side Minecraft mod that adds various convenient ways of moving items within inventory GUIs, such as scrolling over stacks to move single items to or from it"
+optional = true

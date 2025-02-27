@@ -1,6 +1,6 @@
 name = "Observable"
 filename = "observable-4.4.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/VYRu7qmG/versions/MprPnUls/observable-4.4.2.jar"
@@ -11,3 +11,8 @@ hash = "725d6ae05f78b2007a4dfa52c238efa5ea52548b"
 [update.modrinth]
 mod-id = "VYRu7qmG"
 version = "MprPnUls"
+
+[option]
+optional = true
+default = true
+description = "A spiritual successor to LagGoggles for Minecraft 1.16+, Observable profiles (tile) entities and shows you what's taking up tick time and where."
