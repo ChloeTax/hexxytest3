@@ -23,3 +23,40 @@ GenericRecipesManager.INSTANCE.remove(<item:turtlematic:chunk_vial>);
 
 craftingTable.addShapeless("communism", <item:numismatics:cog>, [<item:spectrum:downstone_fragments>]);
 craftingTable.addShapeless("capitalism", <item:spectrum:downstone_fragments>, [<item:numismatics:cog>]);
+
+for cable in ["_smart_cable", "_covered_cable", "_glass_cable", "_covered_dense_cable", "_smart_dense_cable"] {
+    for color in ["white", "orange", "magenta", "light_blue", "yellow", "lime", "pink", "gray", "light_gray", "cyan", "purple", "blue", "brown", "green", "red", "black"] {
+        GenericRecipesManager.INSTANCE.addJsonRecipe("dye_blowing/ae2/"+color+"/"+cable, {
+            "type": "garnished:"+color+"_dye_blowing",
+            "ingredients": [
+                {
+                    "item": "ae2:fluix"+cable
+                }
+            ],
+            "results": [
+                {
+                    "item": "ae2:"+color+cable,
+                    "count": 1
+                }
+            ]
+        });
+    }
+}
+
+for cable in ["smart_cable", "covered_cable", "glass_cable", "covered_dense_cable", "smart_dense_cable"] {
+    GenericRecipesManager.INSTANCE.addJsonRecipe("washing/ae2/"+cable, {
+        "type": "create:splashing",
+        "ingredients": [
+            {
+                "tag": "ae2:"+cable
+            }
+        ],
+        "results": [
+            {
+                "item": "ae2:fluix_"+cable
+            }
+        ]
+    });
+}
+
+
