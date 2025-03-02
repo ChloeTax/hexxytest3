@@ -291,6 +291,11 @@ hash = "73faa6a82be2e6c791fa9754b3e05fbfdec82732d9f9a50573b497a07cb8797a"
 metafile = true
 
 [[files]]
+file = "mods/betterp2p.pw.toml"
+hash = "8b0677e4201e157bd632a12e6ebed3343c9d6005bc0c5419bd2a8ee23605cf7c"
+metafile = true
+
+[[files]]
 file = "mods/blahaj.pw.toml"
 hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
 metafile = true
