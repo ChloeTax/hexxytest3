@@ -22,7 +22,7 @@ hash = "ccf9fb9558c6ea11f7a242c3d1c0c6d5de3a8c07151b1c25fb345bb3fbb5c51d"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "91d29a0c6a4a30aef17948b62f0d8f8173ed0f81f2d072346d5aca0264550c60"
+hash = "c81f747f2b0ef0ead8133f08d5635072e631825235a535e24baaaee4c8aa9473"
 
 [[files]]
 file = "config/climbladdersfast.json5"

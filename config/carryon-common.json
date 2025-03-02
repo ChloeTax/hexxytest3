@@ -73,11 +73,11 @@
       "#forge:relocation_not_supported",
       "yigd:grave",
       "create:item_vault",
-      "create:fluid_tank",
+      "create:fluid_tank"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
-      "minecraft:ender_dragon",
+      "minecraft:ender_dragon"
     ],
     "//forbiddenStacking": "Entities that cannot have other entities stacked on top of them",
     "forbiddenStacking": [
