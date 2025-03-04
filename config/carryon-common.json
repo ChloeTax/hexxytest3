@@ -73,7 +73,8 @@
       "#forge:relocation_not_supported",
       "yigd:grave",
       "create:item_vault",
-      "create:fluid_tank"
+      "create:fluid_tank",
+      "handcrafted:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
