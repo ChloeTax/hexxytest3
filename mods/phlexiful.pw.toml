@@ -1,0 +1,13 @@
+name = "Phlexiful"
+filename = "phlexiful-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wZmv2tbP/versions/W2Tx6aRM/phlexiful-fabric-1.0.0.jar"
+hash-format = "sha1"
+hash = "b97594fc7d29d730603a32fe506c3a242a2dd2cf"
+
+[update]
+[update.modrinth]
+mod-id = "wZmv2tbP"
+version = "W2Tx6aRM"
