@@ -20,6 +20,7 @@ craftingTable.addShaped("splicing_table", <item:hexdebug:splicing_table>, [
 GenericRecipesManager.INSTANCE.remove(<item:createaddition:electrum_amulet>);
 GenericRecipesManager.INSTANCE.remove(<item:ae2:spatial_anchor>);
 GenericRecipesManager.INSTANCE.remove(<item:turtlematic:chunk_vial>);
+GenericRecipesManager.INSTANCE.remove(<item:phlexiful:battery_pants>);
 
 craftingTable.addShapeless("communism", <item:numismatics:cog>, [<item:spectrum:downstone_fragments>]);
 craftingTable.addShapeless("capitalism", <item:spectrum:downstone_fragments>, [<item:numismatics:cog>]);
