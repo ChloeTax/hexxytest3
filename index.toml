@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
-hash = "eefc0f28b3f5ce9c91f214b70cae4c9707c9eb5d607cafe91145ceeec981a75e"
+hash = "4618cc574a70501f21bb4d6642ee611aaedf8675b7a2e78e9a10f48b5cbb838f"
 
 [[files]]
 file = "mods/estrogen.pw.toml"
@@ -1134,7 +1134,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
-hash = "a3650dba955fd6024df7eee6c1d768ad274f3ec7e35873a2e26fc0325c8f2c92"
+hash = "a356f09b59e8deb42f3de7e3d88943b3afb2afa1242bab4268ca6f0f4fe63acb"
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
