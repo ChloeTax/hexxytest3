@@ -1540,11 +1540,6 @@ hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "37a6a34917ca4d226926360a65a84291cb01bdb373dfe8c0d6eb1583dbddd22e"
-metafile = true
-
-[[files]]
 file = "mods/where-is-it.pw.toml"
 hash = "f548bae64f75608a6baa1ff146b18bb8a37daedef38b9bdb79a65d30c6f2ffbc"
 metafile = true
