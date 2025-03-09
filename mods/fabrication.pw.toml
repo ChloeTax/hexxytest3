@@ -1,13 +1,13 @@
 name = "Fabrication"
-filename = "fabrication-3.5.1+1.20.jar"
+filename = "fabrication-3.5.6+1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a397109db4ab3c2934ada5178ecb0bb35d94ffdf"
+hash = "76a000b28163467622ff0bb46aafd9d9d1d1b86b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5907349
+file-id = 6079549
 project-id = 414445

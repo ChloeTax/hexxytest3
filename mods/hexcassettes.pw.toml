@@ -1,13 +1,13 @@
 name = "Hexcassettes"
-filename = "hexcassettes-1.1.3.jar"
+filename = "hexcassettes-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y7OyTnxi/versions/lFmpPuNi/hexcassettes-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/Y7OyTnxi/versions/4Ml342F0/hexcassettes-1.1.4.jar"
 hash-format = "sha1"
-hash = "9745fe87a0286ee5598b5496364711746d39f20a"
+hash = "fe874e1d44fe4af768f1fd99763b270a2ef8c910"
 
 [update]
 [update.modrinth]
 mod-id = "Y7OyTnxi"
-version = "lFmpPuNi"
+version = "4Ml342F0"

@@ -1,18 +1,17 @@
 name = "Iris & Oculus Flywheel Compat"
-filename = "iris-flywheel-compat-1.20.1-0.2.4.jar"
+filename = "iris-flywheel-compat-fabric1.20.1+1.1.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ndHYMY2K/versions/CH0C91Te/iris-flywheel-compat-1.20.1-0.2.4.jar"
+url = "https://cdn.modrinth.com/data/ndHYMY2K/versions/v3unHP1U/iris-flywheel-compat-fabric1.20.1%2B1.1.4.jar"
 hash-format = "sha1"
-hash = "32efa39aeaac78c94fbd8c74159443c6f4bbb19a"
+hash = "3a6a2d277ef215bf6f0b1a81eb2ffce7553d96ce"
 
 [update]
 [update.modrinth]
 mod-id = "ndHYMY2K"
-version = "CH0C91Te"
+version = "v3unHP1U"
 
 [option]
 optional = true
-default = false
 description = "improves performance when using shaders with create stuff, this version is for the pack default iris, disable this and update it if you're using another version of iris"
