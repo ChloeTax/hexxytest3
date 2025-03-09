@@ -14,5 +14,5 @@ version = "J2fuM58R"
 
 [option]
 optional = true
-default = true
-description = "improves performance if you have a nvidia card, can cause crashes with specific cards?"
+default = false
+description = "improves performance if you have a nvidia card, can cause crashes with specific cards and mods, needs a sodium downgrade to use"
