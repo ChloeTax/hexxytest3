@@ -1510,11 +1510,6 @@ hash = "cc0a19f55f9f04eb1b593129f81051afe20b119d126d40a5e4b03178a660e164"
 metafile = true
 
 [[files]]
-file = "mods/via-romana.pw.toml"
-hash = "f5d116b36a13496750f31a8a8e344ef3636440ca1034d194fa600714c9158f16"
-metafile = true
-
-[[files]]
 file = "mods/villager-in-a-bucket.pw.toml"
 hash = "1ddfa9326a8f1b639b609f5a73186dbb76967488c697c804560ccd8881dd5264"
 metafile = true
