@@ -1,18 +1,18 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar"
-side = "client"
+filename = "DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/20nF6i21/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/nVT5sVYS/DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar"
 hash-format = "sha1"
-hash = "95b8fe605ada8c3f24ea62d45d1fdb065bd81329"
+hash = "60c18da8254de6db8a5757c812b5ad879e51eea0"
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "20nF6i21"
+version = "nVT5sVYS"
 
 [option]
 optional = true
-default = false
+default = true
 description = "stores chunks like bobby, but uses LOD to let you see much farther than normal with less lag, but the options menu is currently broken"
