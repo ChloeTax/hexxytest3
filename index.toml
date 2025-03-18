@@ -326,6 +326,11 @@ hash = "bc89870afdbd128e0299919856c7d4a6ce5f5abb4dc43870e29388078cb4711e"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "635275e7ff042568ac2279602371e0da61eae9b07d7486b5b357f5f43d83caa9"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "bb111f705b13e7fca180b273cd1dcf78842dc52b00149ffc67cc74f4f1fcca3a"
 metafile = true
@@ -358,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
-metafile = true
-
-[[files]]
-file = "mods/chat-calc.pw.toml"
-hash = "c9b988e4f3a65ccad7221518cb21930ff242d687ca16176ff37f9082f5391617"
 metafile = true
 
 [[files]]
