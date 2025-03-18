@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexdebug.pw.toml"
-hash = "b3530b1c637233f5fc712cb7a9c30413a2270dc8cd878dfddd6477753d2acba9"
+hash = "6f968f2e2dce5d1608c4e91e2e6051a8b050dd362893f76b6967b379b00672de"
 metafile = true
 
 [[files]]
