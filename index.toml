@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/complex-hex.pw.toml"
-hash = "ff10c7486b9ae36dacf7b623c2ce401bb00bb84322a0402786f0eb41231abfbe"
+hash = "b3878fe0c4d854db1831b54b616f47fbf62939e76b9fbe3eccdee8b10b86240a"
 metafile = true
 
 [[files]]
