@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexical-2.0.0.jar"
-hash = "804fad06fced8dc8a48b181205d702d6a27bd014f85ef9d0f41ae856d3d5ac1e"
+hash = "fa805f6b531eb218633e153303780128201986ffe6e40d43614e7936d64b7148"
 
 [[files]]
 file = "mods/hextended-staves.pw.toml"
