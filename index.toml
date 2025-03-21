@@ -834,9 +834,8 @@ hash = "2602dfe116196398f2da45b2e25cdb1572bdf24b6c5a00025fdc3140f698160b"
 metafile = true
 
 [[files]]
-file = "mods/hexdebug.pw.toml"
-hash = "6f968f2e2dce5d1608c4e91e2e6051a8b050dd362893f76b6967b379b00672de"
-metafile = true
+file = "mods/hexdebug-fabric-0.2.2+1.20.1-SNAPSHOT.jar"
+hash = "e64fb0c54db82ef8d2c75f37ea8d7e9268831ef0a8a30286d407fdf5b375099a"
 
 [[files]]
 file = "mods/hexical-2.0.0.jar"
