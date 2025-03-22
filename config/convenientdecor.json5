@@ -16,6 +16,6 @@
     // The umbrella protects players from rain and sunlight when used with the Origins mod.
     "umbrellaOriginsIntegration": false,
     // Rainhats and Raincoats (with the hood activated) protect players from rain when used with the Origins mod
-    "rainclothesOriginsIntegration": true
+    "rainclothesOriginsIntegration": false
   }
 }
