@@ -30,7 +30,7 @@ hash = "e783427ffa09e1c7e0ada1dface596d41ca5d7d4b4c84ff7d547b7dd6361e677"
 
 [[files]]
 file = "config/convenientdecor.json5"
-hash = "4b8d52175de2ec99ed9562c1bdcde38c912c7aedd59fe0d6b12eb6e5b60090f3"
+hash = "4bffb5e3af1d5bc26847091629df3427ec15e516030e54805168a50818744c0c"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -839,7 +839,7 @@ hash = "e64fb0c54db82ef8d2c75f37ea8d7e9268831ef0a8a30286d407fdf5b375099a"
 
 [[files]]
 file = "mods/hexical-2.0.0.jar"
-hash = "fa805f6b531eb218633e153303780128201986ffe6e40d43614e7936d64b7148"
+hash = "3ad41c861d865defcc09330bbb13f3af7e7ef366c89250e2e1caec15c968d919"
 
 [[files]]
 file = "mods/hextended-staves.pw.toml"
