@@ -1,5 +1,5 @@
 {
-  "opBreakHarvestLevel": 3,
+  "opBreakHarvestLevel": 4,
   "maxOpCount": 100000,
   "maxSpellCircleLength": 1024,
   "actionDenyList": ["hextweaks:nadith"],
