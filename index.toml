@@ -94,7 +94,7 @@ hash = "c0e37aeda3a508f8b87dddc1a39769627216978974e35287e6f88f40c0909582"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "708950a7ef0064674e63133ace68969198f71dfc3ae9b5ace1115c32fda0ddc1"
+hash = "6f80851d51a76344235d5b1d50ba5387191e819017fa40a3962650f3aa7fd496"
 
 [[files]]
 file = "config/lithium.properties"
