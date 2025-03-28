@@ -11,3 +11,7 @@ hash = "a54502ba6c7ff886a83c0e70c4f120be260b1c2b"
 [update.modrinth]
 mod-id = "NdeIBctc"
 version = "Q0IBH3hq"
+
+[option]
+optional = true
+default = true

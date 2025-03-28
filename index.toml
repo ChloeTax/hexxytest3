@@ -1225,7 +1225,7 @@ metafile = true
 
 [[files]]
 file = "mods/quickstack.pw.toml"
-hash = "c6423eeef60aacad291b03c9b348e10e9243ffa317ccc0feeeadc08cb08316c5"
+hash = "fef53a3f39db6e5edda2f2aa9db710265cebb8669ade193992fcab2d3cafac72"
 metafile = true
 
 [[files]]
