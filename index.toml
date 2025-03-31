@@ -820,6 +820,11 @@ hash = "a062040e25906154ee421d2eaf36387576b54cccf5bbed8cc7ae164e1d0a947c"
 metafile = true
 
 [[files]]
+file = "mods/hex-machina.pw.toml"
+hash = "4909540724dd1ed0dc1ece335f34f09f6da522afc357dfe7ec0cc21d75d68c17"
+metafile = true
+
+[[files]]
 file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar"
 hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
 
