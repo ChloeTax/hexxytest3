@@ -1,0 +1,13 @@
+name = "Scholar"
+filename = "scholar-1.20.1-1.1.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fX4dIQCo/versions/orIMnwcB/scholar-1.20.1-1.1.4-fabric.jar"
+hash-format = "sha1"
+hash = "fcc46d4741984ea06158014f5d6da327e05ae15d"
+
+[update]
+[update.modrinth]
+mod-id = "fX4dIQCo"
+version = "orIMnwcB"
