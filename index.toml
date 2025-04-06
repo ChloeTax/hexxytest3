@@ -843,8 +843,18 @@ hash = "b55dfeeab67b72e837f945ffe75dc5b5297a359bba6ffc99dc3eae6161dc5ec3"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting-media-display.pw.toml"
+hash = "9e9151ad4d08a5f915c2f3f3579b6fd42a396033a56e756bcb17ce568056cf7f"
+metafile = true
+
+[[files]]
 file = "mods/hexcellular.pw.toml"
 hash = "2602dfe116196398f2da45b2e25cdb1572bdf24b6c5a00025fdc3140f698160b"
+metafile = true
+
+[[files]]
+file = "mods/hexchanting.pw.toml"
+hash = "92fb9e7708bd38c234288737b67599aab27c526dfec02d7f7776aad8a391d984"
 metafile = true
 
 [[files]]

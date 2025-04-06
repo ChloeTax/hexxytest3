@@ -1,0 +1,17 @@
+name = "Hexcasting Media Display"
+filename = "hexcasting-media-display-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ua22vs0r/versions/Fyl2CHsZ/hexcasting-media-display-1.0.0.jar"
+hash-format = "sha1"
+hash = "713061cb5963632f58c762c984ab848a250c52f4"
+
+[update]
+[update.modrinth]
+mod-id = "Ua22vs0r"
+version = "Fyl2CHsZ"
+
+[option]
+optional = true
+default = true
