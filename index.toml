@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting-media-display.pw.toml"
-hash = "553245042234a8e32e86fdee644c2f30fefaaa8efe2382a5bc887208828a6f9e"
+hash = "e97eb84508131348407c1c4c83be76befb65d06d0b194fbfe24657217277a307"
 metafile = true
 
 [[files]]

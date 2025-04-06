@@ -14,5 +14,5 @@ version = "Fyl2CHsZ"
 
 [option]
 optional = true
-default = true
+default = false
 description = "shows your media in dust over your hotbar"
