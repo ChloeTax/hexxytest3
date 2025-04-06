@@ -848,8 +848,8 @@ hash = "2602dfe116196398f2da45b2e25cdb1572bdf24b6c5a00025fdc3140f698160b"
 metafile = true
 
 [[files]]
-file = "mods/hexdebug-fabric-0.2.2+1.20.1-SNAPSHOT.jar"
-hash = "e64fb0c54db82ef8d2c75f37ea8d7e9268831ef0a8a30286d407fdf5b375099a"
+file = "mods/hexdebug-fabric-0.3.0+1.20.1-SNAPSHOT.jar"
+hash = "aa464902bfbf1c309dc843f4e68e5ae6549a3f1fce8e9f57f69e61c57656d5ae"
 
 [[files]]
 file = "mods/hexical-2.0.0.jar"
@@ -866,7 +866,7 @@ hash = "2913cccfc433aeb080bf8467905fc5da0aba15fd132be225065749a56846734c"
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
-hash = "3034cb8fb08eb5639efea30811b2b3e857c3fc17efbd8a5c79b95697b451d7f0"
+hash = "d0ce2e662d7e926aa731707f7308d57384fd9f6dd274feec623e62c18398254e"
 metafile = true
 
 [[files]]
