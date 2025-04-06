@@ -45,10 +45,6 @@ file = "config/ding.toml"
 hash = "ca663b5f2af55adcea949c23c65bce7167fd0c0538228e1bfc6e41bb0f4293e7"
 
 [[files]]
-file = "config/distantfriends.toml"
-hash = "b20ae798a09f1bfdb307c881d25b1e52698d62481a1ce8714e7435ac2aebf266"
-
-[[files]]
 file = "config/do_a_barrel_roll-client.json"
 hash = "70cecf53a1dc7f58813bf758b505f8d8382a8c89aab0914b2d22698e79817e57"
 
@@ -572,11 +568,6 @@ metafile = true
 [[files]]
 file = "mods/displaycase.pw.toml"
 hash = "eb74ec42ed67d4661bda3b0ef50c813edfe123263ca78d03dafa5ed8421ef366"
-metafile = true
-
-[[files]]
-file = "mods/distant-friends.pw.toml"
-hash = "70a60b44cb524e771c16d26a8e5ecdc0fd9f4c94a5e6280e3534ecfca45fd332"
 metafile = true
 
 [[files]]
