@@ -11,3 +11,8 @@ hash = "af4fab0a71ef09870c724a22036437070fb54952"
 [update.modrinth]
 mod-id = "Z5b0cAlD"
 version = "bwQT3Pqa"
+
+[option]
+optional = true
+default = true
+description = "Click through signs and item frames to chests"

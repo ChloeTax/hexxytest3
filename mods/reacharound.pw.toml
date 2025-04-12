@@ -11,3 +11,8 @@ hash = "8f39f7b3692a632befd8bb1983be5842522a3278"
 [update.modrinth]
 mod-id = "r3VgI4QN"
 version = "S2mz6cYu"
+
+[option]
+optional = true
+default = true
+description = "A simple bedrock block placement mod with added support for placing blocks downwards and upwards."

@@ -11,3 +11,8 @@ hash = "ecb2a2a01f009b2f315daa1db1eb205c2dd8a88f"
 [update.modrinth]
 mod-id = "2i7tg1Wv"
 version = "lFe6bXgE"
+
+[option]
+optional = true
+default = true
+description = "Hands-free walking and sprinting in Minecraft"

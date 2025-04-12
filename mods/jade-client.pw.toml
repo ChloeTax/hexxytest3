@@ -1,6 +1,6 @@
 name = "Jade 🔍"
 filename = "Jade-1.20-Fabric-11.12.3.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/oJx1UoWN/Jade-1.20-Fabric-11.12.3.jar"
@@ -11,3 +11,8 @@ hash = "e915ddb56b1ff48a617380695cdda42d0be018bc"
 [update.modrinth]
 mod-id = "nvQzSEkH"
 version = "oJx1UoWN"
+
+[option]
+optional = true
+default = true
+description = "Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)"
