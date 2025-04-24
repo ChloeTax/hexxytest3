@@ -848,6 +848,11 @@ file = "mods/hexdebug-fabric-0.3.0+1.20.1-SNAPSHOT.jar"
 hash = "aa464902bfbf1c309dc843f4e68e5ae6549a3f1fce8e9f57f69e61c57656d5ae"
 
 [[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "01f562a0058883a650b9c43c98fb4c96316afa45a8583e7de8de9970dd968ddf"
+metafile = true
+
+[[files]]
 file = "mods/hexical-2.0.0.jar"
 hash = "3ad41c861d865defcc09330bbb13f3af7e7ef366c89250e2e1caec15c968d919"
 
@@ -908,6 +913,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "07506ecab05d7d18f6a94091083c5a99d9f626451ed431805e55a741b1819f6f"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "bba928c17068f79d83b893cbd1db6a1f676e48b077cae0e3533526300dbf8034"
 metafile = true
 
 [[files]]
