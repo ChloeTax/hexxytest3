@@ -760,6 +760,11 @@ hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "0673fc42b2d2fe78cc60c8fbc2a51a731a73404bde3a11f91d65bd234d59ff91"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
 hash = "af167766cf972ba7f550e169cec17318a724edac20ac919959e3cf80e5d5f8c3"
 metafile = true
@@ -1267,6 +1272,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "d708f2f376e30f748476708554e3b7c7b9d5e9cd6e569cd517e7c449b6ba4756"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "2684d553f77a9981817dc319d8f659e1165758fdd4c4a14a9ea183019e0dca95"
 metafile = true
 
 [[files]]
