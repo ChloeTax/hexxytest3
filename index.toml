@@ -1245,6 +1245,10 @@ hash = "7dfc2b3f6ca353f5f5a1cfafba260f2aaa3f2266ff04aa704613e1d502b2922a"
 metafile = true
 
 [[files]]
+file = "mods/preserved-building-1.1.0.jar"
+hash = "108b5df3ca04968de1118b02cc59932ab9d111a3bbe017a4436833a97827eeb2"
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "41c3e28de159860c04632b40a5f1c2846b7d0b21f419b87d0ee6273aa10cb9a9"
 metafile = true
