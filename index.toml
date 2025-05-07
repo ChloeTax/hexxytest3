@@ -94,7 +94,7 @@ hash = "c0e37aeda3a508f8b87dddc1a39769627216978974e35287e6f88f40c0909582"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "6f80851d51a76344235d5b1d50ba5387191e819017fa40a3962650f3aa7fd496"
+hash = "6be0528a66ee22c9563972c45832799f581f07a6d30d33987a1148daa43d4c51"
 
 [[files]]
 file = "config/lithium.properties"
@@ -1177,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/overevaluate-1.0.0.jar"
-hash = "bf53453ba4a60c969294a52b8e7886a2a8f9aed0a5ad5f8c30680eedbf82db8a"
+hash = "3f853fc7be3f4a83e89852f3a65b671814dfc9a1755e12a2c5bf46d3f9d77c88"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"

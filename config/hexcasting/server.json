@@ -2,8 +2,14 @@
   "opBreakHarvestLevel": 4,
   "maxOpCount": 100000,
   "maxSpellCircleLength": 1024,
-  "actionDenyList": ["hextweaks:nadith"],
-  "circleActionDenyList": ["hextweaks:nadith"],
+  "actionDenyList": [
+    "hextweaks:nadith",
+    "hexical:parrot"
+  ],
+  "circleActionDenyList": [
+    "hextweaks:nadith",
+    "hexical:parrot"
+  ],
   "villagersOffendedByMindMurder": true,
   "doesTrueNameHaveAmbit": true,
   "tpDimDenylist": [
