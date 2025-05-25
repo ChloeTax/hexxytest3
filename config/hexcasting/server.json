@@ -3,12 +3,10 @@
   "maxOpCount": 100000,
   "maxSpellCircleLength": 1024,
   "actionDenyList": [
-    "hextweaks:nadith",
-    "hexical:parrot"
+    "hextweaks:nadith"
   ],
   "circleActionDenyList": [
-    "hextweaks:nadith",
-    "hexical:parrot"
+    "hextweaks:nadith"
   ],
   "villagersOffendedByMindMurder": true,
   "doesTrueNameHaveAmbit": true,
