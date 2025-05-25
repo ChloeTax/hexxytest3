@@ -1177,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/overevaluate-1.0.0.jar"
-hash = "bf53453ba4a60c969294a52b8e7886a2a8f9aed0a5ad5f8c30680eedbf82db8a"
+hash = "3f853fc7be3f4a83e89852f3a65b671814dfc9a1755e12a2c5bf46d3f9d77c88"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
