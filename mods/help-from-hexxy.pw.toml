@@ -1,13 +1,13 @@
 name = "Help From Hexxy"
-filename = "helpfromhexxy-fabric-1.20.1-0.1.1.jar"
+filename = "helpfromhexxy-fabric-1.20.1-0.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/eUqaq0aE/versions/7IMQrQjC/helpfromhexxy-fabric-1.20.1-0.1.1.jar"
+url = "https://cdn.modrinth.com/data/eUqaq0aE/versions/9eAfP74Y/helpfromhexxy-fabric-1.20.1-0.1.2.jar"
 hash-format = "sha1"
-hash = "66af30e58bab4232a512149580a624bb968b768e"
+hash = "ea81191c9c6ae0bc8a436874b83adc2c16edd3a2"
 
 [update]
 [update.modrinth]
 mod-id = "eUqaq0aE"
-version = "7IMQrQjC"
+version = "9eAfP74Y"
