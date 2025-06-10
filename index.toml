@@ -1163,7 +1163,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
-hash = "5a15d49a6f8ee1b5c5eaee9c36b3774db38911ca0081ba7b76599074e1cb1ef2"
+hash = "6e960e7298dda16f33beccb3c6e755ef00c0ff80e22dec5254a5dd63dff7a1e4"
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
