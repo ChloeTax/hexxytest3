@@ -1,0 +1,13 @@
+name = "HexStruction"
+filename = "HexStruction-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cebcbee3a55d01a6d9b5e8883d09407964a777b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6641906
+project-id = 1283004

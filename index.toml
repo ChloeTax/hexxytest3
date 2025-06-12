@@ -867,6 +867,11 @@ file = "mods/hexportation-fabric-1.20.1-0.0.1.jar"
 hash = "59efe1519a724a0b3720a3b2a747ddc3c9ffecac0d66d2f322caa831ab7692c2"
 
 [[files]]
+file = "mods/hexstruction.pw.toml"
+hash = "77f1ad984b1b1bb7c024593c687e7f26598ab9172ec146f97cb5a9cb6b815714"
+metafile = true
+
+[[files]]
 file = "mods/hextended-staves.pw.toml"
 hash = "757774e68391ed09ec99fadf5564db6649519f11a9114b63a4f162932209e11e"
 metafile = true
