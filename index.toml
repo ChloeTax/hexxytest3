@@ -173,6 +173,10 @@ file = "config/xaeroworldmap-common.txt"
 hash = "3e279815757ee51a1c1f4f89c545e1fff8ead1d251f83cac4d2114321f1109a7"
 
 [[files]]
+file = "icon.png"
+hash = "300ffff2f6a03efc51d11799be8e003bc4691571dfa75035fe2212c9d354f041"
+
+[[files]]
 file = "local/ftbchunks/client-config.snbt"
 hash = "8cf66ee49ae1ae955947ec4b57100a4fb0025dfb21a9ad7728ab84313f9c060d"
 
