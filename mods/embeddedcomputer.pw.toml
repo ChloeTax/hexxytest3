@@ -1,13 +1,13 @@
 name = "Embedded Computer"
-filename = "embeddedcomputer-0.4.1.jar"
+filename = "embeddedcomputer-0.3.0-beta.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/X41LBcSD/versions/Nvh6LoSS/embeddedcomputer-0.4.1.jar"
+url = "https://cdn.modrinth.com/data/X41LBcSD/versions/YcOuhmN9/embeddedcomputer-0.3.0-beta.1.jar"
 hash-format = "sha1"
-hash = "bb4b8d96945e7ae0f33f3c65b2c92ed641817a3a"
+hash = "8a7a12de37ccb51c1d473cb2b6a1dc6e4acbdbf9"
 
 [update]
 [update.modrinth]
 mod-id = "X41LBcSD"
-version = "Nvh6LoSS"
+version = "YcOuhmN9"
