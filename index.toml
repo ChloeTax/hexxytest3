@@ -117,6 +117,10 @@ file = "config/plethora.hocon"
 hash = "a7a1149debf8fc7b4a84c5dc300d5c5b30ebdb5aa6ae0fd471657908b90e40b4"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "5fd5400e68d820d26da70bab8225b840e7c67ae43991d9302dca4ac5db65c01a"
+
+[[files]]
 file = "config/status/state-client.properties"
 hash = "0b2d443b55005de50ea8866a4c3bce702b8b3d751f6ae6b0b38f55f03107ef17"
 
@@ -1633,6 +1637,10 @@ metafile = true
 file = "resourcepacks/ccc.pw.toml"
 hash = "a864f90ec46c0f6dcd94b19d214d02b8605b00dfa568f36d2d5a08d819d6c9ff"
 metafile = true
+
+[[files]]
+file = "resourcepacks/toki-pona.zip"
+hash = "17b418b2a9993418157d9d61bf08a050adac3094f466486a1549d8e438b1e3b2"
 
 [[files]]
 file = "scripts/common/phials.zs"
