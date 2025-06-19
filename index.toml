@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-debug.pw.toml"
-hash = "ac084f12dc66779c0e8518e54fcad9b644a35a68f419b9c8bb14f7e10cedc253"
+hash = "cf00ee269814902bb82e885c37b4fb9cbcc5ae7722d8e5038c477a3627cf6920"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddedcomputer.pw.toml"
-hash = "6e025865874e85f3ac34dcf0192614bd3f7f698785ab4b7f5e09525dfa2e74bc"
+hash = "253d0905e558cf8633af648339d25f17e1aef3991b72d4ce0199a70db8a71aef"
 metafile = true
 
 [[files]]
