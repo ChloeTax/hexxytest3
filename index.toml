@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "e4295eaf6d67a0203c6410e4687b3e4340d84202e1cf751b231f283b5f801751"
+hash = "49055d88cda332d0454a3ae925b46b095f354100330c379723fe5372617e8378"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddedcomputer.pw.toml"
-hash = "253d0905e558cf8633af648339d25f17e1aef3991b72d4ce0199a70db8a71aef"
+hash = "6e025865874e85f3ac34dcf0192614bd3f7f698785ab4b7f5e09525dfa2e74bc"
 metafile = true
 
 [[files]]
