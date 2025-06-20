@@ -599,11 +599,6 @@ hash = "a6ccb1b88fd8e38d17b34ae3b5b82b59129c5133e0dc1c5ffce5bb73cc10e811"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-torches.pw.toml"
-hash = "e6c5090523f820fb62b107df33f9a6090021f3903f85c259a350b3af4107d588"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-trim.pw.toml"
 hash = "84099541d113b40afde01b62fac476c940898d8dcf669f34a3e48d79c0271f2c"
 metafile = true
