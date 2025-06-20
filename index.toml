@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "0273a578ec15f3eb9a9d44996a30b969397641ed27e3d1abe0c5f73bd70a4fdc"
+hash = "9b03ac06c46425ce5ca421db6c3f59c0999ec1a47e0b660fce80504dc8210fac"
 metafile = true
 
 [[files]]
