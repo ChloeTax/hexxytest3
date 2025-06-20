@@ -1,6 +1,6 @@
 name = "ChunkDebug"
 filename = "chunk-debug-1.20.1-1.0.8.jar"
-side = "client"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/zQxjhDPq/versions/M5Z6hDQa/chunk-debug-1.20.1-1.0.8.jar"
