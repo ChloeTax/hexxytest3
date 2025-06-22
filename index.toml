@@ -842,8 +842,8 @@ hash = "b55dfeeab67b72e837f945ffe75dc5b5297a359bba6ffc99dc3eae6161dc5ec3"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.2.jar"
-hash = "a155ff1976fa5d4af356d97fed2d86ade6ca37d7eca084f9ec34f5d5eddf2d7d"
+file = "mods/hexcasting-fabric-1.20.1-0.11.2-SpellCircleFork.jar"
+hash = "c30ec1d6847b1e9198b003916f0e129e9db4ea1701dd5936b04e61f414c45643"
 
 [[files]]
 file = "mods/hexcellular.pw.toml"
