@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "allium/hexnoun.pw.toml"
+hash = "ed93a9518821adacaac4892666b732d75404cf2ed9510f3f84a3698ff5ae4621"
+metafile = true
+
+[[files]]
 file = "config/Spectrum.json5"
 hash = "a49a6a238ece8cb8bae91521b6cec36f0fe54faf189939b845b98ae824a03e99"
 
@@ -55,6 +60,10 @@ hash = "b649b1eb058e6881ea582510d9c9cc78b154822cde0f2afc554184edc26a8cca"
 [[files]]
 file = "config/effortless.toml"
 hash = "2959c44525b4ef7af91a03df292728c45c7417adcd93174bc9669215654bdbc3"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "91d268f407c9fdcdd5e17950fb460a1b44912fb729062330f1afd32e20819923"
 
 [[files]]
 file = "config/fabrication/dimensional_tools.ini"
@@ -214,6 +223,11 @@ hash = "147a7bdbecbdc4c5748dbc4e4ce7d941d221c9c595dfce0fb795b2cc5650a103"
 metafile = true
 
 [[files]]
+file = "mods/allium.pw.toml"
+hash = "761b6253c867c70d3ee410bde8cecb43dfa3ea36372a58030ab2c7963ea3cce6"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "25dacd12f5b52b3def150a69cf3b613b9fdee4646027c15e5466e90b4527669e"
 metafile = true
@@ -331,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "bc89870afdbd128e0299919856c7d4a6ce5f5abb4dc43870e29388078cb4711e"
+metafile = true
+
+[[files]]
+file = "mods/caduceus.pw.toml"
+hash = "217a6a02e0f36dab305e167c851a408a1ab1ba23a1950593b6afefe37aeaddba"
 metafile = true
 
 [[files]]
@@ -619,6 +638,10 @@ hash = "9103d28353bff589154441c53e9ada35828f8ef6afcb42f77ec3caf2e3bdbd18"
 metafile = true
 
 [[files]]
+file = "mods/efhexs-1.0.0.jar"
+hash = "8d3d529b034b15de3fe4c63bc0400c589074213b51ab9a6f147c698a6cac7dfa"
+
+[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "c40b072ee52184434028d22973064d545e24a1f02405b96c352cd3a6b01d5f51"
 metafile = true
@@ -664,6 +687,11 @@ hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
+file = "mods/enlightened-psionics.pw.toml"
+hash = "6932d00187a6f5b06daae1ab18f88c938aa42e7f73aafe8519ae45a7cb05ea2f"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "6e7d67f7a330c3e01c2c3879fa1a507045c6a6dee92f839048c74b7fc946441c"
 metafile = true
@@ -704,12 +732,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a74044f64e15149ea7e2efd2a2fcb2d8818e26ff0d27d2f684a287a12e2378aa"
+hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "98dd654d4a179825ed13cf12913aeee257b56c0986a8aa352b42749656bc47a7"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -855,8 +883,21 @@ hash = "01f562a0058883a650b9c43c98fb4c96316afa45a8583e7de8de9970dd968ddf"
 metafile = true
 
 [[files]]
+file = "mods/hexdeco-1.2.jar"
+hash = "39c4551b9e938e48177949696ae6547af8c426f5394b3faea2e74f8e0e8188da"
+
+[[files]]
 file = "mods/hexical-2.0.0.jar"
 hash = "3ad41c861d865defcc09330bbb13f3af7e7ef366c89250e2e1caec15c968d919"
+
+[[files]]
+file = "mods/hexmu-1.1.2.jar"
+hash = "5f53c743cc9de08f1c7ecb9e7b536a424ed771f23bf54adf2d98b1e07c1ce103"
+
+[[files]]
+file = "mods/hexmu.pw.toml"
+hash = "b2364ea61796171414d97f59ab06d7f0d3e73dc895267ab7b7a64e74b460f309"
+metafile = true
 
 [[files]]
 file = "mods/hexpats.pw.toml"
@@ -866,6 +907,10 @@ metafile = true
 [[files]]
 file = "mods/hexportation-fabric-1.20.1-0.0.1.jar"
 hash = "59efe1519a724a0b3720a3b2a747ddc3c9ffecac0d66d2f322caa831ab7692c2"
+
+[[files]]
+file = "mods/hexpose-1.0.0.jar"
+hash = "fde9140a48db594bdfa006d9da3e9f9b41f06eff270c566bd3c932b9c4f72aac"
 
 [[files]]
 file = "mods/hexstruction.pw.toml"
@@ -1119,6 +1164,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
+metafile = true
+
+[[files]]
+file = "mods/movesthemind.pw.toml"
+hash = "69ad417b9ad56c7f5cb95e3e69c77c31b5948fb74080f6cebd6e6d5300313b0c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,15 @@
+name = "Enlightened-Psionics"
+filename = "hexpsi-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/beholderface/Enlightened-Psionics/releases/download/jam/hexpsi-1.0.0.jar"
+hash-format = "sha256"
+hash = "7d9266e28dc187fbcc7e3d685c08a7f217b3000ef70e251662e54a461fe15515"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "beholderface/Enlightened-Psionics"
+tag = "jam"

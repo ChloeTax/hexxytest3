@@ -1,0 +1,15 @@
+name = "Caduceus"
+filename = "caduceus-fabric-0.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/object-Object/Caduceus/releases/download/v0.1.0%2B1.20.1/caduceus-fabric-0.1.0%2B1.20.1.jar"
+hash-format = "sha256"
+hash = "73d674113c35523d4b3fb15c92d96b9ef3ca1d612574b9324a89f9c707bc3391"
+
+[update]
+[update.github]
+branch = "9737367b932ee5241615ea6d96fe6897ff8ea704"
+regex = ".+-fabric-.+\\+1\\.20\\.1\\.jar"
+slug = "object-Object/Caduceus"
+tag = "v0.1.0+1.20.1"

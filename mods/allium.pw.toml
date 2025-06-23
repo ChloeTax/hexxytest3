@@ -1,0 +1,13 @@
+name = "Allium"
+filename = "allium-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UGyKB0LR/versions/pRfRIRfT/allium-0.4.0.jar"
+hash-format = "sha512"
+hash = "c3c5b614efda404edb500fee95f94e9907b9c1b5c1c4c80cd0de6ed340a9723a10e57d4d6d74f813b22f448c5d9bc06c16c262dde2aedb111e1100765941a1f9"
+
+[update]
+[update.modrinth]
+mod-id = "UGyKB0LR"
+version = "pRfRIRfT"
