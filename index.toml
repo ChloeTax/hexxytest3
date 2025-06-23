@@ -374,11 +374,6 @@ hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "d731808c922fd093883896f7f739bd68497174f1682d7da8986196b342ba9bc6"
-metafile = true
-
-[[files]]
 file = "mods/chattoggle.pw.toml"
 hash = "73bd5d3aa580e4236c387cb1d527a16c9a917c45c4aaef2455f7deb1d81e7234"
 metafile = true
