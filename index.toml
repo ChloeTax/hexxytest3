@@ -895,11 +895,6 @@ file = "mods/hexmu-1.1.2.jar"
 hash = "5f53c743cc9de08f1c7ecb9e7b536a424ed771f23bf54adf2d98b1e07c1ce103"
 
 [[files]]
-file = "mods/hexmu.pw.toml"
-hash = "b2364ea61796171414d97f59ab06d7f0d3e73dc895267ab7b7a64e74b460f309"
-metafile = true
-
-[[files]]
 file = "mods/hexpats.pw.toml"
 hash = "b0475cd3af4c279c6e7f8c5d697f0d552b179c4ad97983a172bf47daec131510"
 metafile = true
