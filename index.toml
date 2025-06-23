@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "allium/hexnoun.pw.toml"
-hash = "3d0ed5a980f289eabf522d0ab632edb29aa0529e93d393bbe526cc70c31b1da3"
+file = "allium/hexnoun-hexjam-zip.pw.toml"
+hash = "6af36d3e80b5e57c4022be782ac1e63f9b40be76a727d926e148f52c4eee160e"
 metafile = true
 
 [[files]]
