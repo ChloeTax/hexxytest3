@@ -2,6 +2,6 @@ name = "HexNoun"
 filename = "hexnoun.zip"
 
 [download]
-url = "https://github.com/ChloeTax/HexNoun/archive/fb10cf7443d53f75ae698b10c3d022297f08c652.zip"
+url = "https://github.com/ChloeTax/HexNoun/archive/hexjam.zip"
 hash-format = "sha256"
 hash = "d902d324bece3b32806ff6c2db4428332252b93852b5260e9897c83dc3422b67"
