@@ -1,0 +1,7 @@
+name = "hexmu"
+filename = "hexmu-1.0.0.jar"
+
+[download]
+url = "https://maven-pool-net-eu-org.ipns.dweb.link/org/eu/net/pool/hexmu/1.0.0/hexmu-1.0.0.jar"
+hash-format = "sha256"
+hash = "023111074288da66a26d57ff999ed9fa6bc90019ed6e63a39d747d75d2ba8811"
