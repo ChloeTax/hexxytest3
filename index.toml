@@ -846,8 +846,8 @@ hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
 
 [[files]]
-file = "mods/helpfromhexxy-fabric-1.20.1-0.1.3.zip"
-hash = "8b869b5946ca5cad309e7bc68bb9ed843a72b0c8c93770aac4fe6718d0252ae1"
+file = "mods/helpfromhexxy-fabric-1.20.1-0.1.3.jar"
+hash = "3053806c56011d4d4017d6fb5a4b5853375cbbf8188bb062cb1ce31d4e057f1a"
 
 [[files]]
 file = "mods/hex-machina.pw.toml"
