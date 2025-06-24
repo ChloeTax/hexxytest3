@@ -891,8 +891,8 @@ file = "mods/hexical-2.0.0.jar"
 hash = "3ad41c861d865defcc09330bbb13f3af7e7ef366c89250e2e1caec15c968d919"
 
 [[files]]
-file = "mods/hexmu-1.2.0.jar"
-hash = "a6c6485893fbb1ab02ee43801c7c234259aa5cc2d89da99dbfaa0487d9621f91"
+file = "mods/hexmu-1.2.1.jar"
+hash = "6e710364eaa7579c8cf2a617c6b3be014c576ecab4e3cc4003eba2f11f49c607"
 
 [[files]]
 file = "mods/hexpats.pw.toml"
