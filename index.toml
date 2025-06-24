@@ -864,8 +864,8 @@ hash = "b55dfeeab67b72e837f945ffe75dc5b5297a359bba6ffc99dc3eae6161dc5ec3"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.9999-hexxytest.2.2.jar"
-hash = "c3f469732ff00cb13148cd8669ac5ac91eaf8369f524d9fb749b5299df3d1447"
+file = "mods/hexcasting-fabric-1.20.1-0.11.9999-hexxytest.3.2.jar"
+hash = "95ff40e2e16bd6a2d83f4394d23cbd85126cc94546083a9c368f9ac18d8b5b4c"
 
 [[files]]
 file = "mods/hexcellular.pw.toml"
