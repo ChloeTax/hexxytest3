@@ -199,6 +199,10 @@ hash = "2e112a2a55a82cf9ac3db6593bfd7b72b3dda85d1734fa699ee07a42353009f0"
 metafile = true
 
 [[files]]
+file = "mods/AE2CCBridge-1.0.2-1.20.1-FABRIC-0.0.jar"
+hash = "25432a348cde8f5f26ce8b8b70461e7a56f00b1b0e40b79ac9a6ef4945b9ca63"
+
+[[files]]
 file = "mods/Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
 hash = "a0ba090fead330b6d15cda854d29d3e4b5c19adaab1f280a9c17635657ed31cf"
 
@@ -215,11 +219,6 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "9b03ac06c46425ce5ca421db6c3f59c0999ec1a47e0b660fce80504dc8210fac"
-metafile = true
-
-[[files]]
-file = "mods/ae2cc.pw.toml"
-hash = "147a7bdbecbdc4c5748dbc4e4ce7d941d221c9c595dfce0fb795b2cc5650a103"
 metafile = true
 
 [[files]]
