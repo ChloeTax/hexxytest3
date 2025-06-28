@@ -889,6 +889,10 @@ file = "mods/hexical-2.0.0.jar"
 hash = "3ad41c861d865defcc09330bbb13f3af7e7ef366c89250e2e1caec15c968d919"
 
 [[files]]
+file = "mods/hexodus-1.0.0.jar"
+hash = "d8b97fd1b1a53bcda35cdc2f4982e5192256f01a0899c334a62ec860011bc104"
+
+[[files]]
 file = "mods/hexpats.pw.toml"
 hash = "b0475cd3af4c279c6e7f8c5d697f0d552b179c4ad97983a172bf47daec131510"
 metafile = true
