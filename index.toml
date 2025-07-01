@@ -1160,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/movesthemind.pw.toml"
-hash = "10d3c668dc772b0526fda1158f9999d9c43d70ebf1dad5b423cdaf4bf648ae51"
+hash = "afdb21d3f8a1b72a8b12efc1639195f5835e09055d141707586bd3ca724f04ba"
 metafile = true
 
 [[files]]
