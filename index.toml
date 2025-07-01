@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/appspec-1.0.2.jar"
-hash = "df5d08a3059ce99ec92af3a675bb832ceab208e313c5dfffcc60914fe77656d2"
+hash = "3cd20aec4f8bf239e2ac8195dad78ffe5b391f8209225c2b82589d1d66de6821"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
