@@ -1,7 +1,0 @@
-name = "movesthemind"
-filename = "movesthemind-1.0.2.jar"
-
-[download]
-url = "https://github.com/abilliontrillionstars/hex-movesthemind/blob/main/movesthemind-1.0.2.jar"
-hash-format = "sha256"
-hash = "fa6d76f5e19e703eddf99628f07cb4d93494ffd3b88cc570ee9718dbf9bc5774"
