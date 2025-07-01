@@ -1,13 +1,13 @@
 name = "Armourer's Workshop"
-filename = "armourersworkshop-fabric-1.20.1-3.2.1-beta.jar"
+filename = "armourersworkshop-fabric-1.20.1-3.2.3-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/y4JF3gXL/versions/duYiqL9z/armourersworkshop-fabric-1.20.1-3.2.1-beta.jar"
+url = "https://cdn.modrinth.com/data/y4JF3gXL/versions/AVZxSnTH/armourersworkshop-fabric-1.20.1-3.2.3-beta.jar"
 hash-format = "sha1"
-hash = "9dfe8053c4200e7fda877363ec91c33d06eab3b6"
+hash = "eff114c622ed3cbcaa7114629991db61c8a53458"
 
 [update]
 [update.modrinth]
 mod-id = "y4JF3gXL"
-version = "duYiqL9z"
+version = "AVZxSnTH"
