@@ -1,9 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "allium/hexnoun-hexjam-zip.pw.toml"
-hash = "6af36d3e80b5e57c4022be782ac1e63f9b40be76a727d926e148f52c4eee160e"
-metafile = true
+file = "allium/hexnoun.zip"
+hash = "0a037d21e15930b5d5b9bd7de0f03fd50a7173031456032f33324744d27d5a6e"
 
 [[files]]
 file = "config/Spectrum.json5"
