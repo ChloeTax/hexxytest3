@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "allium/hexnoun.zip"
-hash = "0a037d21e15930b5d5b9bd7de0f03fd50a7173031456032f33324744d27d5a6e"
+hash = "bae73585ecf5c71f3f0a93270bff951cbe3f32df2d666c3f7acfa9e1924b98f9"
 
 [[files]]
 file = "config/Spectrum.json5"
