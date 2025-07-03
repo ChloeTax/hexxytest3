@@ -1158,8 +1158,9 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
-file = "mods/movesthemind-1.0.2.jar"
-hash = "4b4d3eb6c75f125e92b6b760771f336fc118f72454a9fdb42cae2cfa1b9454d3"
+file = "mods/moves-the-mind.pw.toml"
+hash = "ec608bdb57490774415121102f225cd61a5fbc91f4d1ffbac27c282f6fc6ed34"
+metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
