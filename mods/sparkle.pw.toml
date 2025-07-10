@@ -1,18 +1,18 @@
 name = "Sparkle!"
-filename = "sparkle-2.1.0.jar"
+filename = "sparkle-3.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Lpsy1gMk/versions/k6QFelWB/sparkle-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/Lpsy1gMk/versions/FcplMrHR/sparkle-3.2.0.jar"
 hash-format = "sha1"
-hash = "7aaa728fcdb86036a4e8af6ec93b85210a7a240e"
+hash = "45869bd4d70c363fb12a5f0eb7320d7529181337"
 
 [update]
 [update.modrinth]
 mod-id = "Lpsy1gMk"
-version = "k6QFelWB"
+version = "FcplMrHR"
 
 [option]
 optional = true
-default = true
 description = "makes some blocks/items sparkle"
+default = true
