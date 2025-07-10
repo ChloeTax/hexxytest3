@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/efhexs-1.0.0.jar"
-hash = "8d3d529b034b15de3fe4c63bc0400c589074213b51ab9a6f147c698a6cac7dfa"
+hash = "ffe68ef1064d95ceefb1635c5239104f1e8f4e7bab3f76b1a95b7ef90d18612e"
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
@@ -883,7 +883,7 @@ hash = "39c4551b9e938e48177949696ae6547af8c426f5394b3faea2e74f8e0e8188da"
 
 [[files]]
 file = "mods/hexical-2.0.0.jar"
-hash = "20200f9552242072d4996ba752f655f1569c74aafbb222bf2250d7a5742ca7e1"
+hash = "ad0fc01d2886b6cb54f38c4bade07b682f18cdc77c3b0047b6043653b5672807"
 
 [[files]]
 file = "mods/hexodus-1.0.0.jar"
@@ -900,7 +900,7 @@ hash = "36bcd2b0a39b411211f7270544be3f8bcca11a90740b038c18ebc5c5d5ed7a2e"
 
 [[files]]
 file = "mods/hexpose-1.0.0.jar"
-hash = "fde9140a48db594bdfa006d9da3e9f9b41f06eff270c566bd3c932b9c4f72aac"
+hash = "5deb2708560ca8074a6ff660c6d0086388c3fdf4728065a7b342160827977898"
 
 [[files]]
 file = "mods/hexstruction.pw.toml"
@@ -1227,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/overevaluate-1.0.0.jar"
-hash = "ea18e87ac6ebc6afa2fd2c3061d1830c1d5a6f671dc7d432fc4f7f470442c492"
+hash = "3f8aada082d72fefec1f5ebaa4ecf82a809741597a0cb3f659320f2a56a55bc4"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -1380,7 +1380,7 @@ metafile = true
 
 [[files]]
 file = "mods/scryglass-1.0.0.jar"
-hash = "7c338464e014d2ba785cd7aa4253b439fb09a5c4995294bc05863c9575f9bc25"
+hash = "2047f832c9de13f19c9bd3468e528326f6792bc8dea80d31fae78a8dc829c8c6"
 
 [[files]]
 file = "mods/searchables.pw.toml"
