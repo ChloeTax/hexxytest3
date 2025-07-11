@@ -856,8 +856,9 @@ file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.j
 hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
 
 [[files]]
-file = "mods/hexcassettes-2.0.0.jar"
-hash = "394ed265c71ebe4f979028f6429413cffe63abfd4ba4328b7d1ce3aff64e3c80"
+file = "mods/hexcassettes.pw.toml"
+hash = "b55dfeeab67b72e837f945ffe75dc5b5297a359bba6ffc99dc3eae6161dc5ec3"
+metafile = true
 
 [[files]]
 file = "mods/hexcasting-fabric-1.20.1-0.11.2.3-SpellCircle.jar"
