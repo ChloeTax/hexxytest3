@@ -1,13 +1,13 @@
 name = "HexStruction"
-filename = "HexStruction-fabric-1.1.0.jar"
+filename = "hexstruction-fabric-1.2.1+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/dGRSMTTM/versions/hc9ISI7g/hexstruction-fabric-1.2.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "cebcbee3a55d01a6d9b5e8883d09407964a777b6"
-mode = "metadata:curseforge"
+hash = "1730f1d8a1a6f5c49f2abdd76083283733057e68"
 
 [update]
-[update.curseforge]
-file-id = 6641906
-project-id = 1283004
+[update.modrinth]
+mod-id = "dGRSMTTM"
+version = "hc9ISI7g"
