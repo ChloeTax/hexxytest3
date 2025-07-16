@@ -113,6 +113,10 @@ file = "config/lmft.json"
 hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
 [[files]]
+file = "config/moderate-loading-screen.json5"
+hash = "12517642ab84469c3739d4adf8d9ee9d1b036c340ab5888f32637e4fca6b0756"
+
+[[files]]
 file = "config/oneironaut/server.json5"
 hash = "ad142c357368166490b53184d0a1c3a582b603909e05ff5371a32d2a179427d1"
 
@@ -1120,6 +1124,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
+metafile = true
+
+[[files]]
+file = "mods/moderate-loading-screen.pw.toml"
+hash = "56601fd64ca601717fbe88fefab39bb7bd95459bc777a0dd18e96ca4c8be85f5"
 metafile = true
 
 [[files]]

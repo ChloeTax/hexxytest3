@@ -1,0 +1,13 @@
+name = "Mod-erate Loading Screen"
+filename = "moderate-loading-screen-1.4.3+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RCjGlCDj/versions/DwKcByvE/moderate-loading-screen-1.4.3%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "2bb36241bc11ba656c09ca1f1518aef4ae359f14"
+
+[update]
+[update.modrinth]
+mod-id = "RCjGlCDj"
+version = "DwKcByvE"
