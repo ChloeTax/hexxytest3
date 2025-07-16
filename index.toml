@@ -114,7 +114,7 @@ hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
 [[files]]
 file = "config/moderate-loading-screen.json5"
-hash = "12517642ab84469c3739d4adf8d9ee9d1b036c340ab5888f32637e4fca6b0756"
+hash = "db69b54d71df45c0394e65fe689356d3128a2aa45ddab465cbb895d7d0b1b8e0"
 
 [[files]]
 file = "config/oneironaut/server.json5"

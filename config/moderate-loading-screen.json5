@@ -5,10 +5,7 @@
 	"showTater": true,
 	"modsOnlyOnce": true,
 	"hideLibraries": false,
-	"modIdBlacklist": [
-		"fabric-*",
-		"fabric"
-	],
+	"modIdBlacklist": [],
 	"iconSize": 16,
 	"screenType": "SNOWFLAKES",
 	"orientation": "DOWN",
